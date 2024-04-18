@@ -18,7 +18,14 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: #faf7f0;
+  background: #ffffff;
+  min-height: 96vh;
+}
+
+p {
+  font-size: 8pt;
+  letter-spacing: 0.5pt;
+  margin: 0 0 0 0;
 }
 
 @layer utilities {
