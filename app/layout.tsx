@@ -22,7 +22,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <AppRouterCacheProvider>
           <ThemeProvider theme={theme}>
-            <div className="flex min-h-full">{children}</div>
+            <div className="min-h-full max-w-[97%]">{children}</div>
           </ThemeProvider>
         </AppRouterCacheProvider>
       </body>
