@@ -9,7 +9,7 @@ const DynamicHeroIcon: FC<{ icon: string }> = (props) => {
   return (
     <>
       {/* @ts-ignore */}
-      <TheIcon className="h-8 w-8" aria-hidden="true" />
+      <TheIcon className="h-5 w-5" aria-hidden="true" />
     </>
   );
 };
