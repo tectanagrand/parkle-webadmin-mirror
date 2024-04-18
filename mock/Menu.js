@@ -1,23 +1,23 @@
 export const Menu = [
   {
     id: "1",
-    parent: "Monitoring",
+    parent: "Monitoring Parking",
     icon: "CameraIcon",
-    navlink: "monitoring",
+    navlink: "/dashboard/monitoring",
     child: [],
   },
   {
     id: "2",
-    parent: "Parking",
+    parent: "History Parking",
     icon: "TruckIcon",
-    navlink: "parking",
+    navlink: "/dashboard/parking",
     child: [],
   },
   {
-    id: "3",
-    parent: "Users",
+    id: "2",
+    parent: "User Active",
     icon: "UserIcon",
-    navlink: "users",
-    child: [{ id: "3-1", menu: "Active User", link: "dashboard/users/active" }],
+    navlink: "/dashboard/user",
+    child: [],
   },
 ];
