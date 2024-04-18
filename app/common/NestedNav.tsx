@@ -117,7 +117,9 @@ export default function NestedMenuNav({
           >
             <div className="flex items-center gap-3 pointer-events-none">
               <DynamicHeroIcon icon={Icon} />
-              {open && <p className="pointer-events-none">{caption}</p>}
+              {open && (
+                <p className="pointer-events-none capitalize">{caption}</p>
+              )}
             </div>
             {open && !childOpen && (
               <ChevronRightIcon className="h-8 w-8 pointer-events-none" />

@@ -6,19 +6,20 @@ import Link from "next/link";
 const Menu = styled(MuiButton, {
   shouldForwardProp: (prop) => prop !== "open",
 })<{ open: boolean }>(({ theme, open }) => ({
-  width: open ? "17rem" : "4rem",
-  height: "3.5rem",
-  borderRadius: "25px 25px 25px 25px",
-  backgroundColor: theme.palette.grey[50],
-  color: theme.palette.grey[200],
+  width: open ? "12rem" : "3rem",
+  height: "3rem",
+  borderRadius: "8px ",
+  borderWidth: "0px",
+  backgroundColor: theme.palette.secondary.dark,
+  color: theme.palette.primary.contrastText,
   justifyContent: "flex-start",
-  paddingLeft: "1rem",
+  paddingLeft: "0.8rem",
   transition: theme.transitions.create("width", {
     easing: theme.transitions.easing.sharp,
     duration: theme.transitions.duration.leavingScreen,
   }),
   "&:hover": {
-    backgroundColor: theme.palette.grey[300],
+    backgroundColor: theme.palette.secondary.main,
   },
   "&:focus": {
     "&:hover": {
@@ -29,10 +30,10 @@ const Menu = styled(MuiButton, {
   },
   "&.Mui-selected": {
     "&:hover": {
-      backgroundColor: theme.palette.primary.light,
+      backgroundColor: theme.palette.primary.main,
     },
-    backgroundColor: "#B8FFAB",
-    color: theme.palette.primary.main,
+    backgroundColor: theme.palette.primary.main,
+    color: theme.palette.primary.contrastText,
   },
 }));
 
@@ -58,13 +59,14 @@ export default function MenuNav({
           sx={{
             display: "flex",
             gap: 1,
+            ml: "0.2rem",
             alignItems: "center",
             alignContent: "flex-start",
           }}
         >
           <div className="flex items-center gap-3">
             <DynamicHeroIcon icon={Icon} />
-            {open && <p className="my-0">{caption}</p>}
+            {open && <p className="my-0 capitalize font-medium">{caption}</p>}
           </div>
         </Box>
       </Menu>
