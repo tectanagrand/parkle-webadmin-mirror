@@ -21,6 +21,7 @@ const config: Config = {
           DEFAULT: "#2F6C5D",
           light: "#53B19A",
           dark: "#235246",
+          contrasttext: "#000000",
         },
         secondary: {
           DEFAULT: "#61286C",
@@ -28,16 +29,23 @@ const config: Config = {
           dark: "#210E25",
         },
         success: {
-          DEFAULT: "#4AADD2",
+          DEFAULT: "#14f736",
+          contrasttext: "#16A34A",
         },
         error: {
           DEFAULT: "#FF1616",
+          constrasttext: "#FFFFFF",
         },
         warning: {
           DEFAULT: "#FFC72B",
+          contrasttext: "#000000",
+        },
+        idle: {
+          DEFAULT: "#959596",
+          contrasttext: "#000000",
         },
         background: {
-          default: "#fdfad8",
+          DEFAULT: "#fdfad8",
         },
       },
       dropShadow: {
