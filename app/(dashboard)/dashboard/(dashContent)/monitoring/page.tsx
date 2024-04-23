@@ -2,6 +2,7 @@
 import CameraView from "@/app/common/CameraView";
 import ContentLayout from "@/app/common/Content Layout";
 import HeaderLayout from "@/app/common/HeaderLayout";
+import TableStatusParking from "@/app/common/TableStatusParking";
 export default function DashboardPage() {
   return (
     <div className="min-w-full min-h-full items-center justify-center">
@@ -22,8 +23,9 @@ export default function DashboardPage() {
       </HeaderLayout>
       <ContentLayout>
         <div className="flex">
-          <div>
+          <div className="flex flex-col">
             <CameraView />
+            <TableStatusParking />
           </div>
         </div>
       </ContentLayout>
