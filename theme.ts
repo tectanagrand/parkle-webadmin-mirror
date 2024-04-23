@@ -2,6 +2,8 @@
 "use client";
 import { Roboto, Inter, Poppins } from "next/font/google";
 import { createTheme } from "@mui/material/styles";
+import ComponentsOverrides from "./theme/component";
+import palette from "./theme/palette";
 
 const inter = Inter({
   weight: ["300", "400", "500", "700"],
@@ -18,6 +20,7 @@ const poppins = Poppins({
 const theme = createTheme({
   typography: {
     fontFamily: inter.style.fontFamily,
+    fontSize: 12,
   },
   palette: {
     primary: {
@@ -51,6 +54,9 @@ const theme = createTheme({
       200: "#959595",
     },
   },
+  components: ComponentsOverrides(palette),
 });
+
+console.log(theme);
 
 export default theme;
