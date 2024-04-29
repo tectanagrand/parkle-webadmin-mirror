@@ -27,6 +27,7 @@ const config: Config = {
           DEFAULT: "#61286C",
           light: "#AB49BF",
           dark: "#210E25",
+          contrasttext: "#FFFFFF"
         },
         success: {
           DEFAULT: "#14f736",

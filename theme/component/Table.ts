@@ -1,18 +1,20 @@
-export default function Table(palette: any) {
+export default function Table(theme: any) {
   return {
     MuiTableCell: {
-      root: {
+      
         styleOverrides: {
-          fontSize: "8pt",
-          padding: "0 1rem 0 1rem",
+          root : {
+            fontSize: "8pt",
+            padding: "0.75rem 0 0.75rem 0",
+            borderWidth : '0 0 0 0'
+          }
         },
-      },
     },
     MuiTableHead: {
       root: {
         styleOverrides: {
           fontSize: "8pt",
-          backgroundColor: palette.grey[500],
+          backgroundColor: theme.palette.grey[500],
         },
       },
     },
