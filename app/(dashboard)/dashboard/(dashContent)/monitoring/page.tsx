@@ -1,9 +1,15 @@
 "use client";
+<<<<<<< HEAD
 import CameraView from "@/app/common/CameraView";
 import CanvasComponent from "@/app/common/CanvasComponent";
+=======
+import CameraView from "./ui/CameraView";
+>>>>>>> 85e1bd3c84bb0bdfc2cf6c15b586bf65a0f80d61
 import ContentLayout from "@/app/common/Content Layout";
 import HeaderLayout from "@/app/common/HeaderLayout";
-import TableStatusParking from "@/app/common/TableStatusParking";
+import StatusParking from "./ui/StatusParking";
+import ThumbnailCard from "@/app/common/ThumbnailCard";
+import ThumbnailList from "./ui/ThumbnailList";
 export default function DashboardPage() {
   return (
     <div className="min-w-full min-h-full items-center justify-center">
@@ -23,13 +29,21 @@ export default function DashboardPage() {
         </div>
       </HeaderLayout>
       <ContentLayout>
+<<<<<<< HEAD
         <div className="flex">
           <div className="flex flex-col">
             <CameraView>
               <CanvasComponent />
             </CameraView>
             <TableStatusParking />
+=======
+        <div className="flex justify-between">
+          <div className="flex flex-col min-w-[50vw]">
+            <CameraView />
+            <StatusParking/>
+>>>>>>> 85e1bd3c84bb0bdfc2cf6c15b586bf65a0f80d61
           </div>
+          <ThumbnailList/>
         </div>
       </ContentLayout>
     </div>

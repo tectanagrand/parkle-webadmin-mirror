@@ -48,6 +48,9 @@ export default function TableStatusParking() {
         const status = determineStatus(info.getValue());
         return <StatusBadge label={info.getValue()} mode={status} />;
       },
+      meta: {
+        align : 'left'
+      }
     }),
   ];
   const rows = ParkingStatus;

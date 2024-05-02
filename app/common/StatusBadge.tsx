@@ -8,7 +8,6 @@ interface StatusBadgeType {
 export default function StatusBadge({ label, mode }: StatusBadgeType) {
   let styleMode = "";
   let textStyle = "";
-  console.log(styleMode);
   switch (mode) {
     case "success":
       styleMode = "bg-success border-success";
@@ -34,11 +33,12 @@ export default function StatusBadge({ label, mode }: StatusBadgeType) {
   return (
     <div
       className={clsx(
-        "rounded-full p-1 h-5 bg-opacity-10 border-[1px] border-solid flex items-center justify-center",
+        "rounded-full h-5 bg-opacity-10 border-[1px] border-solid flex shrink items-center justify-center max-w-fit p-3",
         styleMode
       )}
     >
-      <p className={clsx("text-center", textStyle)}>{label}</p>
+      <p className={clsx(textStyle)}>{label}</p>
     </div>
   );
 }
+7

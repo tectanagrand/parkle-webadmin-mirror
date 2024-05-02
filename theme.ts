@@ -54,9 +54,8 @@ const theme = createTheme({
       200: "#959595",
     },
   },
-  components: ComponentsOverrides(palette),
 });
 
-console.log(theme);
+theme.components = ComponentsOverrides(theme) ;
 
 export default theme;

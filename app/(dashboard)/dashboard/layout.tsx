@@ -30,7 +30,7 @@ interface AppBarProps extends MuiAppBarProps {
   open?: Boolean;
 }
 
-const drawerWidth = 200;
+const drawerWidth = 220;
 
 const AppBar = styled(MuiAppBar, {
   shouldForwardProp: (prop: any) => prop != "open",
@@ -80,6 +80,8 @@ const Drawer = styled(MuiDrawer, {
   shouldForwardProp: (prop) => prop != "open",
 })(({ theme, open }) => ({
   width: drawerWidth,
+  maxHeight: '100vh',
+  position : 'fixed', 
   flexShrink: 0,
   whiteSpace: "nowrap",
   boxSizing: "border-box",
