@@ -1,5 +1,6 @@
 "use client";
 import CameraView from "@/app/common/CameraView";
+import CanvasComponent from "@/app/common/CanvasComponent";
 import ContentLayout from "@/app/common/Content Layout";
 import HeaderLayout from "@/app/common/HeaderLayout";
 import TableStatusParking from "@/app/common/TableStatusParking";
@@ -24,7 +25,9 @@ export default function DashboardPage() {
       <ContentLayout>
         <div className="flex">
           <div className="flex flex-col">
-            <CameraView />
+            <CameraView>
+              <CanvasComponent />
+            </CameraView>
             <TableStatusParking />
           </div>
         </div>
