@@ -9,8 +9,29 @@ function CanvasComponent() {
     if (canvasRef.current !== null && videoRef.current !== null) {
       const ctx = canvasRef.current.getContext("2d");
       const vid = videoRef.current;
-      ctx?.drawImage(vid, 0, 0, 300, 600);
-      requestAnimationFrame(drawVid);
+       // Get the video's aspect ratio
+       const videoAspectRatio = vid.videoWidth / vid.videoHeight;
+      
+       // Get the canvas's aspect ratio
+       const canvasAspectRatio = canvasRef.current.width / canvasRef.current.height;
+ 
+       let drawWidth = canvasRef.current.width;
+       let drawHeight = canvasRef.current.height;
+ 
+       if (canvasAspectRatio > videoAspectRatio) {
+         // If canvas is wider than video, adjust the height
+         drawHeight = canvasRef.current.width / videoAspectRatio;
+       } else {
+         // If canvas is taller than video, adjust the width
+         drawWidth = canvasRef.current.height * videoAspectRatio;
+       }
+ 
+       const offsetX = (canvasRef.current.width - drawWidth) / 2;
+       const offsetY = (canvasRef.current.height - drawHeight) / 2;
+ 
+       ctx?.clearRect(0, 0, canvasRef.current.width, canvasRef.current.height); // Clear previous frame
+       ctx?.drawImage(vid, offsetX, offsetY, drawWidth, drawHeight); // Draw with correct scaling
+       requestAnimationFrame(drawVid);
     }
   }
 
@@ -27,7 +48,15 @@ function CanvasComponent() {
         drawVid();
       }
     }
-  });
+
+    const playVideo = setTimeout(() => {
+      if(videoRef.current !== null) {
+        videoRef.current.play()
+      }
+    }, 1000)
+
+    return () => {clearTimeout(playVideo)}
+  }, []);
   return (
     <div>
       <video
@@ -36,9 +65,11 @@ function CanvasComponent() {
         height="300"
         width="600"
         autoPlay
+        muted
         style={{ display: "none" }}
       />
-      <canvas ref={canvasRef} />
+      <canvas ref={canvasRef}  height="300"
+        width="600"></canvas>
     </div>
   );
 }
