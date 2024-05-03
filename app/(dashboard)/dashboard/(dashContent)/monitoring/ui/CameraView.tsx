@@ -1,7 +1,37 @@
-import { ReactElement } from "react";
+import { useRef, useEffect, ReactElement } from "react";
 
-export default function CameraView({children} : {children : ReactElement}) {
+export default function CameraView({ children }: { children: ReactElement }) {
+  const divRef = useRef<HTMLDivElement>(null);
+
+  const resizeView = () => {
+    const divElement = divRef.current;
+    if (divElement && children.props.canvasRef.current) {
+      const canvas = children.props.canvasRef.current;
+      const { width, height } = canvas.getBoundingClientRect();
+      divElement.style.width = width + "px";
+      divElement.style.height = height + "px";
+    }
+  };
+
+  useEffect(() => {
+    resizeView(); // Initially set the size when the component mounts
+
+    // Handle resizing when the canvas size changes
+    const resizeObserver = new ResizeObserver(resizeView);
+    resizeObserver.observe(children.props.canvasRef.current);
+
+    return () => {
+      resizeObserver.disconnect(); // Cleanup the ResizeObserver
+    };
+  }, []); // Dependency array empty to only run on mount
+
   return (
-    <div className="min-h-[18rem] rounded-lg border-2 border-slate-300 border-solid drop-shadow-component bg-slate-50 object-fill">{children}</div>
+    <div
+      ref={divRef}
+      className=" bg-slate-50 object-cover"
+      style={{ display: "inline-block" }}
+    >
+      {children}
+    </div>
   );
 }

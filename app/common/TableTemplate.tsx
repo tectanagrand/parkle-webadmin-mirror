@@ -19,6 +19,7 @@ interface TableDef<T> {
   columns: ColumnDef<T, any>[];
   options?: TableOptions<T>;
   CustomFooter?: any;
+  sx?: Object;
 }
 
 export default function TableTemplate<T>({
@@ -26,6 +27,7 @@ export default function TableTemplate<T>({
   columns,
   options,
   CustomFooter,
+  sx,
 }: TableDef<T>) {
   const table = useReactTable({
     ...options,
@@ -35,8 +37,8 @@ export default function TableTemplate<T>({
   });
 
   return (
-    <TableContainer>
-      <Table>
+    <TableContainer sx={sx}>
+      <Table stickyHeader>
         <TableHead>
           {table.getHeaderGroups().map((headerGroups) => {
             return (

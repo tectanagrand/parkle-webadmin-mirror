@@ -49,11 +49,13 @@ export default function TableStatusParking() {
         return <StatusBadge label={info.getValue()} mode={status} />;
       },
       meta: {
-        align : 'left'
-      }
+        align: "left",
+      },
     }),
   ];
   const rows = ParkingStatus;
 
-  return <TableTemplate rows={rows} columns={column} />;
+  return (
+    <TableTemplate rows={rows} columns={column} sx={{ height: "13rem" }} />
+  );
 }

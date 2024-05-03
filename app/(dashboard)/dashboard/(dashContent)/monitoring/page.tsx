@@ -5,7 +5,10 @@ import ContentLayout from "@/app/common/Content Layout";
 import HeaderLayout from "@/app/common/HeaderLayout";
 import StatusParking from "./ui/StatusParking";
 import ThumbnailList from "./ui/ThumbnailList";
+
+import { useRef } from "react";
 export default function DashboardPage() {
+  const canvasRef = useRef<HTMLCanvasElement>(null);
   return (
     <div className="min-w-full min-h-full items-center justify-center">
       <HeaderLayout>
@@ -27,11 +30,11 @@ export default function DashboardPage() {
         <div className="flex">
           <div className="flex flex-col min-w-[50vw]">
             <CameraView>
-              <CanvasComponent />
+              <CanvasComponent canvasRef={canvasRef} />
             </CameraView>
             <StatusParking />
           </div>
-          <ThumbnailList/>
+          <ThumbnailList />
         </div>
       </ContentLayout>
     </div>
