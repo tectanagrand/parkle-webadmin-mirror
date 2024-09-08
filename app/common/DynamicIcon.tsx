@@ -1,15 +1,28 @@
 import { FC } from "react";
-import * as HIcons from "@heroicons/react/24/outline";
+import {
+  CameraIcon,
+  TruckIcon,
+  UserIcon,
+  CircleStackIcon,
+} from "@heroicons/react/16/solid";
 
-const DynamicHeroIcon: FC<{ icon: string }> = (props) => {
-  const { ...icons } = HIcons;
-  // @ts-ignore
-  const TheIcon: JSX.Element = icons[props.icon];
+const icons = {
+  CameraIcon: CameraIcon,
+  TruckIcon: TruckIcon,
+  UserIcon: UserIcon,
+  CircleStackIcon: CircleStackIcon,
+};
+
+interface DynamicHeroIconProps {
+  icon: string;
+}
+
+const DynamicHeroIcon: FC<DynamicHeroIconProps> = ({ icon }) => {
+  const IconComponent = icons[icon as keyof typeof icons];
 
   return (
     <>
-      {/* @ts-ignore */}
-      <TheIcon className="h-5 w-5" aria-hidden="true" />
+      <IconComponent className="h-5 w-5" aria-hidden="true" />
     </>
   );
 };

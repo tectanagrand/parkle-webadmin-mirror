@@ -12,23 +12,25 @@ import {
   TableBody,
   TableRow,
   TableCell,
+  SxProps,
 } from "@mui/material";
-import { JSXElementConstructor } from "react";
+import { useTheme } from "@mui/material/styles";
 interface TableDef<T> {
   rows: Array<T>;
   columns: ColumnDef<T, any>[];
   options?: TableOptions<T>;
-  CustomFooter?: any;
-  sx?: Object;
+  sx?: SxProps;
+  stickyHeader?: boolean;
 }
 
 export default function TableTemplate<T>({
   rows,
   columns,
   options,
-  CustomFooter,
   sx,
+  stickyHeader,
 }: TableDef<T>) {
+  const theme = useTheme();
   const table = useReactTable({
     ...options,
     data: rows,
@@ -38,14 +40,20 @@ export default function TableTemplate<T>({
 
   return (
     <TableContainer sx={sx}>
-      <Table stickyHeader>
+      <Table stickyHeader={stickyHeader}>
         <TableHead>
           {table.getHeaderGroups().map((headerGroups) => {
             return (
               <TableRow key={headerGroups.id}>
                 {headerGroups.headers.map((header) => {
                   return (
-                    <TableCell key={header.id} colSpan={header.colSpan}>
+                    <TableCell
+                      key={header.id}
+                      colSpan={header.colSpan}
+                      sx={{
+                        width: `${header.getSize()}%`,
+                      }}
+                    >
                       {header.isPlaceholder
                         ? null
                         : flexRender(
@@ -62,7 +70,14 @@ export default function TableTemplate<T>({
         <TableBody>
           {table.getRowModel().rows.map((row) => {
             return (
-              <TableRow key={row.id}>
+              <TableRow
+                key={row.id}
+                sx={{
+                  borderTopWidth: "1px",
+                  borderTopStyle: "solid",
+                  borderColor: theme.palette.grey[200],
+                }}
+              >
                 {row.getVisibleCells().map((cell) => {
                   return (
                     <TableCell key={cell.id}>
@@ -77,7 +92,6 @@ export default function TableTemplate<T>({
             );
           })}
         </TableBody>
-        {CustomFooter ? <CustomFooter /> : <></>}
       </Table>
     </TableContainer>
   );

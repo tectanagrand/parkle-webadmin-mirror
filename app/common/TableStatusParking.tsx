@@ -33,14 +33,17 @@ export default function TableStatusParking() {
     columnHelper.accessor("parking_id", {
       header: "PARKING ID",
       cell: (info) => info.getValue(),
+      size: 5,
     }),
     columnHelper.accessor("customers", {
       header: "CUSTOMER",
       cell: (info) => info.getValue(),
+      size: 20,
     }),
     columnHelper.accessor("time", {
       header: "TIME",
       cell: (info) => info.getValue(),
+      size: 30,
     }),
     columnHelper.accessor("status", {
       header: "STATUS",
@@ -48,6 +51,7 @@ export default function TableStatusParking() {
         const status = determineStatus(info.getValue());
         return <StatusBadge label={info.getValue()} mode={status} />;
       },
+      size: 20,
       meta: {
         align: "left",
       },
@@ -56,6 +60,11 @@ export default function TableStatusParking() {
   const rows = ParkingStatus;
 
   return (
-    <TableTemplate rows={rows} columns={column} sx={{ height: "13rem" }} />
+    <TableTemplate
+      rows={rows}
+      columns={column}
+      sx={{ height: "13rem" }}
+      stickyHeader
+    />
   );
 }

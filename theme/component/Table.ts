@@ -1,27 +1,22 @@
 export default function Table(theme: any) {
   return {
-    MuiTableCell: {
-      
-        styleOverrides: {
-          root : {
-            fontSize: "8pt",
-            padding: "0.75rem 0 0.75rem 0",
-            borderWidth : '0 0 0 0'
-          }
-        },
-    },
-    MuiTableHead: {
-      root: {
-        styleOverrides: {
+    MuiTableBody: {
+      styleOverrides: {
+        root: {
           fontSize: "8pt",
-          backgroundColor: theme.palette.grey[500],
         },
       },
     },
-    MuiTableBody: {
-      root: {
-        styleOverrides: {
+    MuiTableCell: {
+      styleOverrides: {
+        root: {
           fontSize: "8pt",
+          padding: "0.75rem 0.75 0.75rem 0.75",
+          borderWidth: "0 0 0 0",
+          backgroundColor: "inherit",
+        },
+        head: {
+          backgroundColor: theme.palette.grey[50],
         },
       },
     },

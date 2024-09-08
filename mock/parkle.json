@@ -1,0 +1,3530 @@
+{
+  "parking_status": [
+    {
+      "parking_id": "#1314",
+      "customers": "Kahli Uchi",
+      "time": "12/12/2023 - 17:56 WIB",
+      "status": "Empty"
+    },
+    {
+      "parking_id": "#1312",
+      "customers": "Habibi Abiyyu",
+      "time": "12/12/2023 - 17:56 WIB",
+      "status": "Parking Filled"
+    },
+    {
+      "parking_id": "#1314",
+      "customers": "Kahli Ucho",
+      "time": "12/12/2023 - 17:56 WIB",
+      "status": "Empty"
+    },
+    {
+      "parking_id": "#1312",
+      "customers": "Abiyyu R",
+      "time": "12/12/2023 - 17:56 WIB",
+      "status": "Parking Filled"
+    }
+  ],
+  "list_parkings": [
+    {
+      "parking_id": "277956739-2",
+      "parking_name": "Narromine Section",
+      "coordinate": 39.7847567,
+      "total_spot": 33,
+      "create_time": "2023-11-14T06:03:44Z"
+    },
+    {
+      "parking_id": "181769972-5",
+      "parking_name": "South Bend Regional Section",
+      "coordinate": -10.6818,
+      "total_spot": 39,
+      "create_time": "2024-03-22T10:06:31Z"
+    },
+    {
+      "parking_id": "937605716-3",
+      "parking_name": "Burns Lake Section",
+      "coordinate": -40.4057293,
+      "total_spot": 33,
+      "create_time": "2024-04-26T06:11:16Z"
+    },
+    {
+      "parking_id": "947763042-X",
+      "parking_name": "New Bedford Regional Section",
+      "coordinate": 59.162099,
+      "total_spot": 7,
+      "create_time": "2024-07-04T19:16:49Z"
+    },
+    {
+      "parking_id": "604875362-4",
+      "parking_name": "Eastern Sierra Regional Section",
+      "coordinate": 18.9313146,
+      "total_spot": 12,
+      "create_time": "2024-05-01T08:06:09Z"
+    },
+    {
+      "parking_id": "456030323-1",
+      "parking_name": "Land's End Section",
+      "coordinate": 35.6958419,
+      "total_spot": 19,
+      "create_time": "2024-02-28T03:40:18Z"
+    },
+    {
+      "parking_id": "147405648-2",
+      "parking_name": "Kengtung Section",
+      "coordinate": -19.6633236,
+      "total_spot": 37,
+      "create_time": "2024-06-19T05:18:35Z"
+    },
+    {
+      "parking_id": "330967108-9",
+      "parking_name": "Port Protection Seaplane Base",
+      "coordinate": 48.689836,
+      "total_spot": 23,
+      "create_time": "2023-12-30T23:16:14Z"
+    },
+    {
+      "parking_id": "423111400-5",
+      "parking_name": "Sarzana-Luni Air Base",
+      "coordinate": 32.04141,
+      "total_spot": 4,
+      "create_time": "2024-05-13T01:10:16Z"
+    },
+    {
+      "parking_id": "434246356-3",
+      "parking_name": "Maimun Saleh Section",
+      "coordinate": 37.5874845,
+      "total_spot": 25,
+      "create_time": "2024-04-01T01:52:37Z"
+    },
+    {
+      "parking_id": "722096915-5",
+      "parking_name": "Waukon Municipal Section",
+      "coordinate": -29.1110188,
+      "total_spot": 32,
+      "create_time": "2024-04-15T14:36:46Z"
+    },
+    {
+      "parking_id": "264110585-3",
+      "parking_name": "Gannan Xiahe Section",
+      "coordinate": 48.1232412,
+      "total_spot": 28,
+      "create_time": "2024-03-25T04:31:37Z"
+    },
+    {
+      "parking_id": "726304268-1",
+      "parking_name": "Ja'Aluni Section",
+      "coordinate": 2.9363162,
+      "total_spot": 6,
+      "create_time": "2024-04-12T05:24:17Z"
+    },
+    {
+      "parking_id": "554776860-X",
+      "parking_name": "Salalah Section",
+      "coordinate": 45.1501866,
+      "total_spot": 23,
+      "create_time": "2023-12-19T15:24:41Z"
+    },
+    {
+      "parking_id": "625835208-1",
+      "parking_name": "Mundo Novo Section",
+      "coordinate": 38.4298138,
+      "total_spot": 31,
+      "create_time": "2024-06-29T08:31:27Z"
+    },
+    {
+      "parking_id": "862586791-X",
+      "parking_name": "Taranto-Grottaglie \"Marcello Arlotta\" Section",
+      "coordinate": 42.6687933,
+      "total_spot": 18,
+      "create_time": "2023-11-01T02:11:04Z"
+    },
+    {
+      "parking_id": "493873837-6",
+      "parking_name": "Yasouj Section",
+      "coordinate": 48.9410561,
+      "total_spot": 33,
+      "create_time": "2023-08-17T17:34:27Z"
+    },
+    {
+      "parking_id": "598520100-7",
+      "parking_name": "Scammon Bay Section",
+      "coordinate": 16.6969748,
+      "total_spot": 37,
+      "create_time": "2024-04-17T08:12:23Z"
+    },
+    {
+      "parking_id": "746269518-9",
+      "parking_name": "Kisumu Section",
+      "coordinate": 17.1613952,
+      "total_spot": 27,
+      "create_time": "2023-08-12T03:05:49Z"
+    },
+    {
+      "parking_id": "982541929-6",
+      "parking_name": "Kitava Section",
+      "coordinate": 20.5593774,
+      "total_spot": 15,
+      "create_time": "2024-07-15T14:30:08Z"
+    },
+    {
+      "parking_id": "200686535-8",
+      "parking_name": "Hollis Clark Bay Seaplane Base",
+      "coordinate": 51.7386378,
+      "total_spot": 24,
+      "create_time": "2024-06-04T20:31:19Z"
+    },
+    {
+      "parking_id": "016494356-0",
+      "parking_name": "Bemichi Section",
+      "coordinate": 29.705077,
+      "total_spot": 28,
+      "create_time": "2024-05-15T13:40:47Z"
+    },
+    {
+      "parking_id": "335473944-4",
+      "parking_name": "Guararapes - Gilberto Freyre International Section",
+      "coordinate": 9.0568265,
+      "total_spot": 26,
+      "create_time": "2023-09-18T03:08:45Z"
+    },
+    {
+      "parking_id": "805719662-9",
+      "parking_name": "Tyler Pounds Regional Section",
+      "coordinate": 41.0394733,
+      "total_spot": 13,
+      "create_time": "2024-06-25T10:08:08Z"
+    },
+    {
+      "parking_id": "679703234-2",
+      "parking_name": "Sasereme Section",
+      "coordinate": 57.9870012,
+      "total_spot": 2,
+      "create_time": "2024-02-14T22:19:25Z"
+    },
+    {
+      "parking_id": "791725328-7",
+      "parking_name": "De La Independencia Section",
+      "coordinate": 28.319573,
+      "total_spot": 40,
+      "create_time": "2023-08-06T11:24:21Z"
+    },
+    {
+      "parking_id": "521434931-9",
+      "parking_name": "Shah Mokhdum Section",
+      "coordinate": 59.3664053,
+      "total_spot": 40,
+      "create_time": "2023-09-12T17:50:57Z"
+    },
+    {
+      "parking_id": "234908347-0",
+      "parking_name": "Tinian International Section",
+      "coordinate": 32.838202,
+      "total_spot": 32,
+      "create_time": "2023-12-07T05:28:25Z"
+    },
+    {
+      "parking_id": "595238518-4",
+      "parking_name": "Farewell Section",
+      "coordinate": 37.3445131,
+      "total_spot": 32,
+      "create_time": "2023-09-21T22:18:17Z"
+    },
+    {
+      "parking_id": "176724549-1",
+      "parking_name": "Dean River Section",
+      "coordinate": 8.7519471,
+      "total_spot": 31,
+      "create_time": "2024-05-22T04:10:50Z"
+    },
+    {
+      "parking_id": "530692807-2",
+      "parking_name": "Gold Beach Municipal Section",
+      "coordinate": 56.6628106,
+      "total_spot": 35,
+      "create_time": "2024-03-12T22:01:07Z"
+    },
+    {
+      "parking_id": "512473938-X",
+      "parking_name": "Kuantan Section",
+      "coordinate": 52.27994,
+      "total_spot": 13,
+      "create_time": "2023-07-26T03:14:44Z"
+    },
+    {
+      "parking_id": "585788419-5",
+      "parking_name": "Mount Gambier Section",
+      "coordinate": 25.648962,
+      "total_spot": 3,
+      "create_time": "2024-03-15T09:26:26Z"
+    },
+    {
+      "parking_id": "977693484-6",
+      "parking_name": "Uljin Section",
+      "coordinate": 14.0603353,
+      "total_spot": 34,
+      "create_time": "2023-12-01T17:26:55Z"
+    },
+    {
+      "parking_id": "855316478-0",
+      "parking_name": "Houghton County Memorial Section",
+      "coordinate": 27.720727,
+      "total_spot": 10,
+      "create_time": "2024-07-20T16:33:31Z"
+    },
+    {
+      "parking_id": "075899320-X",
+      "parking_name": "Daniel Oduber Quiros International Section",
+      "coordinate": -6.3624934,
+      "total_spot": 12,
+      "create_time": "2023-12-31T02:49:39Z"
+    },
+    {
+      "parking_id": "344756826-7",
+      "parking_name": "Momote Section",
+      "coordinate": -3.3619906,
+      "total_spot": 3,
+      "create_time": "2024-01-13T10:28:50Z"
+    },
+    {
+      "parking_id": "794326276-X",
+      "parking_name": "Alakanuk Section",
+      "coordinate": -13.838889,
+      "total_spot": 7,
+      "create_time": "2023-09-10T11:05:02Z"
+    },
+    {
+      "parking_id": "974564896-5",
+      "parking_name": "Cayenne-Rochambeau Section",
+      "coordinate": 31.880644,
+      "total_spot": 26,
+      "create_time": "2024-05-05T04:40:15Z"
+    },
+    {
+      "parking_id": "411342848-4",
+      "parking_name": "Sundsvall-Härnösand Section",
+      "coordinate": 39.912288,
+      "total_spot": 24,
+      "create_time": "2024-04-19T05:59:11Z"
+    },
+    {
+      "parking_id": "335727355-1",
+      "parking_name": "Winisk Section",
+      "coordinate": 13.0842191,
+      "total_spot": 25,
+      "create_time": "2023-08-21T23:17:27Z"
+    },
+    {
+      "parking_id": "444822616-6",
+      "parking_name": "Chub Cay Section",
+      "coordinate": -31.4505323,
+      "total_spot": 23,
+      "create_time": "2023-12-04T07:15:45Z"
+    },
+    {
+      "parking_id": "121873768-9",
+      "parking_name": "Combolcha Section",
+      "coordinate": 37.9098504,
+      "total_spot": 21,
+      "create_time": "2024-04-01T20:28:21Z"
+    },
+    {
+      "parking_id": "136895620-3",
+      "parking_name": "Aberdeen Dyce Section",
+      "coordinate": 38.925875,
+      "total_spot": 9,
+      "create_time": "2024-06-26T18:46:59Z"
+    },
+    {
+      "parking_id": "886850761-7",
+      "parking_name": "Port Lincoln Section",
+      "coordinate": 40.280218,
+      "total_spot": 38,
+      "create_time": "2023-11-10T17:12:27Z"
+    },
+    {
+      "parking_id": "002794737-8",
+      "parking_name": "Hihifo Section",
+      "coordinate": 7.116798,
+      "total_spot": 18,
+      "create_time": "2024-04-17T09:15:06Z"
+    },
+    {
+      "parking_id": "366551067-8",
+      "parking_name": "Votuporanga Section",
+      "coordinate": -7.783297,
+      "total_spot": 3,
+      "create_time": "2024-01-30T17:04:47Z"
+    },
+    {
+      "parking_id": "681678547-9",
+      "parking_name": "Arathusa Safari Lodge Section",
+      "coordinate": 53.9854,
+      "total_spot": 12,
+      "create_time": "2023-10-19T05:28:19Z"
+    },
+    {
+      "parking_id": "567314919-0",
+      "parking_name": "Mahendranagar Section",
+      "coordinate": 25.8903957,
+      "total_spot": 19,
+      "create_time": "2024-03-07T06:35:37Z"
+    },
+    {
+      "parking_id": "798604526-4",
+      "parking_name": "Engati Airstrip",
+      "coordinate": 4.9512761,
+      "total_spot": 39,
+      "create_time": "2024-01-22T21:48:35Z"
+    },
+    {
+      "parking_id": "676608662-9",
+      "parking_name": "Bathpalathang Section",
+      "coordinate": 44.9153318,
+      "total_spot": 38,
+      "create_time": "2023-10-27T08:19:26Z"
+    },
+    {
+      "parking_id": "575868765-0",
+      "parking_name": "Illinois Valley Regional Section-Walter A Duncan Field",
+      "coordinate": 59.1389119,
+      "total_spot": 6,
+      "create_time": "2023-12-09T20:10:17Z"
+    },
+    {
+      "parking_id": "610777756-3",
+      "parking_name": "Halifax County Section",
+      "coordinate": 13.1641308,
+      "total_spot": 36,
+      "create_time": "2024-06-07T21:53:04Z"
+    },
+    {
+      "parking_id": "063896981-6",
+      "parking_name": "Fianarantsoa Section",
+      "coordinate": 21.270702,
+      "total_spot": 25,
+      "create_time": "2024-01-25T16:27:00Z"
+    },
+    {
+      "parking_id": "288683770-9",
+      "parking_name": "Icy Bay Section",
+      "coordinate": 34.41096,
+      "total_spot": 37,
+      "create_time": "2023-12-07T18:18:01Z"
+    },
+    {
+      "parking_id": "517831595-2",
+      "parking_name": "Haycock Section",
+      "coordinate": 14.5618599,
+      "total_spot": 33,
+      "create_time": "2023-10-16T20:08:30Z"
+    },
+    {
+      "parking_id": "234916047-5",
+      "parking_name": "Kuressaare Section",
+      "coordinate": 37.9356939,
+      "total_spot": 12,
+      "create_time": "2023-11-29T09:34:18Z"
+    },
+    {
+      "parking_id": "586279591-X",
+      "parking_name": "Gladstone Section",
+      "coordinate": 57.4388568,
+      "total_spot": 19,
+      "create_time": "2024-06-23T10:01:40Z"
+    },
+    {
+      "parking_id": "484178572-8",
+      "parking_name": "Splane Memorial Section",
+      "coordinate": 47.3892142,
+      "total_spot": 21,
+      "create_time": "2023-09-22T19:35:45Z"
+    },
+    {
+      "parking_id": "918510903-7",
+      "parking_name": "Yellowknife Section",
+      "coordinate": -7.0487503,
+      "total_spot": 38,
+      "create_time": "2024-04-13T04:53:48Z"
+    },
+    {
+      "parking_id": "310214952-9",
+      "parking_name": "RAF Wyton",
+      "coordinate": 0.186066,
+      "total_spot": 11,
+      "create_time": "2024-01-06T22:03:45Z"
+    },
+    {
+      "parking_id": "578097971-5",
+      "parking_name": "University Oxford Section",
+      "coordinate": 28.697014,
+      "total_spot": 32,
+      "create_time": "2024-03-24T11:42:38Z"
+    },
+    {
+      "parking_id": "879179848-5",
+      "parking_name": "University of Oklahoma Westheimer Section",
+      "coordinate": 49.9638636,
+      "total_spot": 3,
+      "create_time": "2023-09-18T05:04:07Z"
+    },
+    {
+      "parking_id": "464793341-5",
+      "parking_name": "Tri-State/Milton J. Ferguson Field",
+      "coordinate": -2.688962,
+      "total_spot": 17,
+      "create_time": "2024-06-17T19:52:17Z"
+    },
+    {
+      "parking_id": "631464362-7",
+      "parking_name": "Kasabonika Section",
+      "coordinate": 53.3004898,
+      "total_spot": 24,
+      "create_time": "2023-08-03T16:39:30Z"
+    },
+    {
+      "parking_id": "137786061-2",
+      "parking_name": "Presidente Venceslau Section",
+      "coordinate": 23.681774,
+      "total_spot": 25,
+      "create_time": "2023-12-13T05:11:29Z"
+    },
+    {
+      "parking_id": "029558839-X",
+      "parking_name": "Casiguran Section",
+      "coordinate": 52.30002,
+      "total_spot": 16,
+      "create_time": "2024-03-19T20:50:35Z"
+    },
+    {
+      "parking_id": "064894451-4",
+      "parking_name": "Marfa Municipal Section",
+      "coordinate": 36.947175,
+      "total_spot": 39,
+      "create_time": "2024-01-24T03:13:08Z"
+    },
+    {
+      "parking_id": "842492903-9",
+      "parking_name": "Satu Mare Section",
+      "coordinate": -7.7533886,
+      "total_spot": 11,
+      "create_time": "2024-06-11T07:29:40Z"
+    },
+    {
+      "parking_id": "509874046-0",
+      "parking_name": "Austin Section",
+      "coordinate": 31.437058,
+      "total_spot": 12,
+      "create_time": "2024-01-03T00:03:49Z"
+    },
+    {
+      "parking_id": "436470092-4",
+      "parking_name": "Atbara Section",
+      "coordinate": 40.0820173,
+      "total_spot": 9,
+      "create_time": "2023-09-02T04:33:52Z"
+    },
+    {
+      "parking_id": "732985582-0",
+      "parking_name": "Alligandi Section",
+      "coordinate": 51.5190765,
+      "total_spot": 9,
+      "create_time": "2024-02-18T21:08:18Z"
+    },
+    {
+      "parking_id": "683293527-7",
+      "parking_name": "Daşoguz Section",
+      "coordinate": 13.4082642,
+      "total_spot": 26,
+      "create_time": "2024-01-11T20:18:16Z"
+    },
+    {
+      "parking_id": "965462077-4",
+      "parking_name": "Vance W. Amory International Section",
+      "coordinate": 20.8965838,
+      "total_spot": 36,
+      "create_time": "2023-08-25T08:03:12Z"
+    },
+    {
+      "parking_id": "480675230-4",
+      "parking_name": "Butare Section",
+      "coordinate": -6.8243672,
+      "total_spot": 14,
+      "create_time": "2024-01-01T13:51:13Z"
+    },
+    {
+      "parking_id": "425440370-4",
+      "parking_name": "Desroches Section",
+      "coordinate": 44.8119628,
+      "total_spot": 39,
+      "create_time": "2023-10-25T23:38:20Z"
+    },
+    {
+      "parking_id": "900494952-6",
+      "parking_name": "Khujirt Section",
+      "coordinate": 48.586322,
+      "total_spot": 20,
+      "create_time": "2024-06-09T12:16:21Z"
+    },
+    {
+      "parking_id": "464744217-9",
+      "parking_name": "Brigadeiro Cabral Section",
+      "coordinate": 60.6458731,
+      "total_spot": 13,
+      "create_time": "2024-05-03T17:52:01Z"
+    },
+    {
+      "parking_id": "249317725-8",
+      "parking_name": "Ivano-Frankivsk International Section",
+      "coordinate": 29.514498,
+      "total_spot": 9,
+      "create_time": "2023-12-23T01:22:15Z"
+    },
+    {
+      "parking_id": "910286660-9",
+      "parking_name": "Xewkija Heliport",
+      "coordinate": 15.8127,
+      "total_spot": 40,
+      "create_time": "2024-02-21T13:13:41Z"
+    },
+    {
+      "parking_id": "275535053-9",
+      "parking_name": "Margaret River (Station) Section",
+      "coordinate": 59.4518841,
+      "total_spot": 15,
+      "create_time": "2024-07-09T22:18:11Z"
+    },
+    {
+      "parking_id": "146166413-6",
+      "parking_name": "Terrace Bay Section",
+      "coordinate": -6.9002853,
+      "total_spot": 7,
+      "create_time": "2023-12-05T00:24:10Z"
+    },
+    {
+      "parking_id": "612616051-7",
+      "parking_name": "Wawa Section",
+      "coordinate": -6.0776348,
+      "total_spot": 20,
+      "create_time": "2023-12-01T18:59:40Z"
+    },
+    {
+      "parking_id": "517024256-5",
+      "parking_name": "Yinchuan Hedong International Section",
+      "coordinate": 30.07225,
+      "total_spot": 20,
+      "create_time": "2024-05-31T15:24:08Z"
+    },
+    {
+      "parking_id": "210191452-2",
+      "parking_name": "Toksook Bay Section",
+      "coordinate": 34.454443,
+      "total_spot": 21,
+      "create_time": "2024-04-28T14:00:38Z"
+    },
+    {
+      "parking_id": "957461265-1",
+      "parking_name": "Anuha Island Resort Section",
+      "coordinate": 41.634449,
+      "total_spot": 32,
+      "create_time": "2023-10-30T08:34:47Z"
+    },
+    {
+      "parking_id": "785442131-5",
+      "parking_name": "Komodo Section",
+      "coordinate": 42.3781869,
+      "total_spot": 11,
+      "create_time": "2024-07-16T16:09:52Z"
+    },
+    {
+      "parking_id": "292600592-X",
+      "parking_name": "Kamileroi Section",
+      "coordinate": -7.8862987,
+      "total_spot": 24,
+      "create_time": "2023-11-02T08:01:43Z"
+    },
+    {
+      "parking_id": "532283942-9",
+      "parking_name": "Zhangye Ganzhou Section",
+      "coordinate": 47.236015,
+      "total_spot": 19,
+      "create_time": "2024-06-28T17:04:46Z"
+    },
+    {
+      "parking_id": "567073552-8",
+      "parking_name": "Chickasha Municipal Section",
+      "coordinate": 8.99214,
+      "total_spot": 21,
+      "create_time": "2023-12-07T03:28:32Z"
+    },
+    {
+      "parking_id": "984211193-8",
+      "parking_name": "Piedras Negras International Section",
+      "coordinate": 49.854154,
+      "total_spot": 7,
+      "create_time": "2023-09-03T17:46:01Z"
+    },
+    {
+      "parking_id": "341122950-0",
+      "parking_name": "Flughafen München-Riem",
+      "coordinate": 37.366903,
+      "total_spot": 22,
+      "create_time": "2023-09-30T17:28:56Z"
+    },
+    {
+      "parking_id": "396267154-4",
+      "parking_name": "Kaikoura Section",
+      "coordinate": 51.6715177,
+      "total_spot": 17,
+      "create_time": "2023-10-12T04:31:11Z"
+    },
+    {
+      "parking_id": "447230535-6",
+      "parking_name": "Buraimi Section",
+      "coordinate": 39.871981,
+      "total_spot": 3,
+      "create_time": "2024-02-24T23:13:18Z"
+    },
+    {
+      "parking_id": "059614214-5",
+      "parking_name": "Matsu Beigan Section",
+      "coordinate": -6.9508,
+      "total_spot": 4,
+      "create_time": "2023-11-16T06:04:18Z"
+    },
+    {
+      "parking_id": "665670988-5",
+      "parking_name": "Hervey Bay Section",
+      "coordinate": 52.6973953,
+      "total_spot": 13,
+      "create_time": "2024-01-04T06:07:52Z"
+    },
+    {
+      "parking_id": "029583356-4",
+      "parking_name": "Bahawalnagar Section",
+      "coordinate": 53.5659675,
+      "total_spot": 19,
+      "create_time": "2024-06-28T05:45:23Z"
+    },
+    {
+      "parking_id": "956064169-7",
+      "parking_name": "Nnamdi Azikiwe International Section",
+      "coordinate": -9.6759995,
+      "total_spot": 9,
+      "create_time": "2023-10-31T02:12:11Z"
+    },
+    {
+      "parking_id": "037987531-4",
+      "parking_name": "Jutigalpa Section",
+      "coordinate": 38.9388075,
+      "total_spot": 14,
+      "create_time": "2023-11-04T16:09:35Z"
+    },
+    {
+      "parking_id": "900719687-1",
+      "parking_name": "Tekirdağ Çorlu Section",
+      "coordinate": 54.236292,
+      "total_spot": 6,
+      "create_time": "2024-03-22T18:00:02Z"
+    },
+    {
+      "parking_id": "812700886-9",
+      "parking_name": "Buritirama Section",
+      "coordinate": -6.6312766,
+      "total_spot": 31,
+      "create_time": "2024-05-23T03:21:28Z"
+    },
+    {
+      "parking_id": "721801948-X",
+      "parking_name": "Komo-Manda Section",
+      "coordinate": 24.546876,
+      "total_spot": 11,
+      "create_time": "2024-03-01T02:57:46Z"
+    },
+    {
+      "parking_id": "276737225-7",
+      "parking_name": "Goundam Section",
+      "coordinate": 3.8458333,
+      "total_spot": 39,
+      "create_time": "2023-11-06T19:28:04Z"
+    },
+    {
+      "parking_id": "916999629-6",
+      "parking_name": "Reykjavik Section",
+      "coordinate": 44.2298189,
+      "total_spot": 3,
+      "create_time": "2023-12-14T03:37:34Z"
+    },
+    {
+      "parking_id": "117829836-1",
+      "parking_name": "Playón Chico Section",
+      "coordinate": 37.0938859,
+      "total_spot": 12,
+      "create_time": "2023-09-18T05:08:43Z"
+    },
+    {
+      "parking_id": "301756165-8",
+      "parking_name": "Lewis University Section",
+      "coordinate": 8.6020718,
+      "total_spot": 22,
+      "create_time": "2023-12-21T03:50:07Z"
+    },
+    {
+      "parking_id": "067197277-4",
+      "parking_name": "Jurien Bay Section",
+      "coordinate": 5.7055314,
+      "total_spot": 19,
+      "create_time": "2024-01-21T11:27:40Z"
+    },
+    {
+      "parking_id": "482148359-9",
+      "parking_name": "Novo Hamburgo Section",
+      "coordinate": 32.388854,
+      "total_spot": 31,
+      "create_time": "2024-07-10T02:32:00Z"
+    },
+    {
+      "parking_id": "248711210-7",
+      "parking_name": "Patos de Minas Section",
+      "coordinate": -7.7090989,
+      "total_spot": 10,
+      "create_time": "2023-12-09T03:30:14Z"
+    },
+    {
+      "parking_id": "609100122-1",
+      "parking_name": "Robertson Section",
+      "coordinate": 18.5286072,
+      "total_spot": 8,
+      "create_time": "2023-10-19T21:51:07Z"
+    },
+    {
+      "parking_id": "754046710-X",
+      "parking_name": "Kolhapur Section",
+      "coordinate": 7.1657856,
+      "total_spot": 3,
+      "create_time": "2023-07-26T18:18:44Z"
+    },
+    {
+      "parking_id": "557913470-3",
+      "parking_name": "Baghdad International Section",
+      "coordinate": -7.361477,
+      "total_spot": 2,
+      "create_time": "2023-09-04T23:03:00Z"
+    },
+    {
+      "parking_id": "184451645-8",
+      "parking_name": "Sakon Nakhon Section",
+      "coordinate": 35.490701,
+      "total_spot": 36,
+      "create_time": "2024-05-02T09:30:39Z"
+    },
+    {
+      "parking_id": "829822771-9",
+      "parking_name": "Achutupo Section",
+      "coordinate": 59.2695504,
+      "total_spot": 30,
+      "create_time": "2024-04-24T22:21:09Z"
+    },
+    {
+      "parking_id": "593033163-4",
+      "parking_name": "Abraham Lincoln Capital Section",
+      "coordinate": 24.412155,
+      "total_spot": 3,
+      "create_time": "2024-01-23T20:51:09Z"
+    },
+    {
+      "parking_id": "468272931-4",
+      "parking_name": "Dr. Arturo H. Illia Section",
+      "coordinate": 55.6686,
+      "total_spot": 10,
+      "create_time": "2023-11-11T01:53:21Z"
+    },
+    {
+      "parking_id": "776578215-0",
+      "parking_name": "Oenpelli Section",
+      "coordinate": 34.477861,
+      "total_spot": 11,
+      "create_time": "2024-07-22T01:50:36Z"
+    },
+    {
+      "parking_id": "508841021-2",
+      "parking_name": "Querétaro Intercontinental Section",
+      "coordinate": 33.189192,
+      "total_spot": 14,
+      "create_time": "2023-11-29T17:19:52Z"
+    },
+    {
+      "parking_id": "032692178-8",
+      "parking_name": "Kings Creek Section",
+      "coordinate": 50.3399747,
+      "total_spot": 9,
+      "create_time": "2024-02-21T10:31:57Z"
+    },
+    {
+      "parking_id": "910320674-2",
+      "parking_name": "Eek Section",
+      "coordinate": 44.256487,
+      "total_spot": 27,
+      "create_time": "2024-07-04T12:00:07Z"
+    },
+    {
+      "parking_id": "880585584-7",
+      "parking_name": "Kotoka International Section",
+      "coordinate": -6.3991308,
+      "total_spot": 6,
+      "create_time": "2024-03-26T10:00:17Z"
+    },
+    {
+      "parking_id": "180772531-6",
+      "parking_name": "Fulleborn Section",
+      "coordinate": 8.5681393,
+      "total_spot": 32,
+      "create_time": "2023-12-23T07:49:07Z"
+    },
+    {
+      "parking_id": "007615734-2",
+      "parking_name": "Iriona Section",
+      "coordinate": -7.2422416,
+      "total_spot": 27,
+      "create_time": "2024-04-21T05:05:27Z"
+    },
+    {
+      "parking_id": "832106073-0",
+      "parking_name": "Numbulwar Section",
+      "coordinate": -6.4534018,
+      "total_spot": 27,
+      "create_time": "2024-04-10T11:11:55Z"
+    },
+    {
+      "parking_id": "421323624-2",
+      "parking_name": "Nakhon Phanom Section",
+      "coordinate": 45.5833482,
+      "total_spot": 3,
+      "create_time": "2024-02-16T15:20:11Z"
+    },
+    {
+      "parking_id": "038208379-2",
+      "parking_name": "Roche Harbor Section",
+      "coordinate": 9.0580598,
+      "total_spot": 34,
+      "create_time": "2023-09-16T22:53:56Z"
+    },
+    {
+      "parking_id": "749033074-2",
+      "parking_name": "Fort Smith Regional Section",
+      "coordinate": 0.2415538,
+      "total_spot": 15,
+      "create_time": "2023-08-23T08:16:13Z"
+    },
+    {
+      "parking_id": "539679146-2",
+      "parking_name": "Lushoto Section",
+      "coordinate": 18.3267954,
+      "total_spot": 5,
+      "create_time": "2024-03-12T16:41:40Z"
+    },
+    {
+      "parking_id": "441322632-1",
+      "parking_name": "Jask Section",
+      "coordinate": -9.798194,
+      "total_spot": 33,
+      "create_time": "2024-05-09T00:53:09Z"
+    },
+    {
+      "parking_id": "649030298-5",
+      "parking_name": "Bumbar Section",
+      "coordinate": 40.2487413,
+      "total_spot": 6,
+      "create_time": "2024-06-14T14:53:00Z"
+    },
+    {
+      "parking_id": "433047632-0",
+      "parking_name": "Beica Section",
+      "coordinate": 48.5372073,
+      "total_spot": 37,
+      "create_time": "2024-01-13T00:44:15Z"
+    },
+    {
+      "parking_id": "960801043-8",
+      "parking_name": "Lajes Section",
+      "coordinate": -6.8958354,
+      "total_spot": 23,
+      "create_time": "2024-06-03T16:07:41Z"
+    },
+    {
+      "parking_id": "033203892-0",
+      "parking_name": "Bannu Section",
+      "coordinate": 40.1556743,
+      "total_spot": 39,
+      "create_time": "2024-06-18T16:51:03Z"
+    },
+    {
+      "parking_id": "797931108-6",
+      "parking_name": "Vichy-Charmeil Section",
+      "coordinate": -8.1708603,
+      "total_spot": 32,
+      "create_time": "2023-10-14T20:51:41Z"
+    },
+    {
+      "parking_id": "501715373-X",
+      "parking_name": "Mid Ohio Valley Regional Section",
+      "coordinate": -31.5327537,
+      "total_spot": 9,
+      "create_time": "2024-06-10T21:43:46Z"
+    },
+    {
+      "parking_id": "025442140-7",
+      "parking_name": "Nice-Côte d'Azur Section",
+      "coordinate": 29.278608,
+      "total_spot": 32,
+      "create_time": "2024-05-27T10:00:22Z"
+    },
+    {
+      "parking_id": "217187294-2",
+      "parking_name": "Cairo West Section",
+      "coordinate": 51.2804955,
+      "total_spot": 2,
+      "create_time": "2024-07-20T05:32:47Z"
+    },
+    {
+      "parking_id": "114703750-7",
+      "parking_name": "Francisco Bangoy International Section",
+      "coordinate": 31.3011339,
+      "total_spot": 23,
+      "create_time": "2023-11-15T07:20:14Z"
+    },
+    {
+      "parking_id": "522754476-X",
+      "parking_name": "Hermannsburg Section",
+      "coordinate": 30.199688,
+      "total_spot": 22,
+      "create_time": "2023-10-11T18:05:58Z"
+    },
+    {
+      "parking_id": "255598856-4",
+      "parking_name": "Range Regional Section",
+      "coordinate": 14.1234415,
+      "total_spot": 37,
+      "create_time": "2024-05-20T05:58:03Z"
+    },
+    {
+      "parking_id": "236171727-1",
+      "parking_name": "Mamitupo Section",
+      "coordinate": 28.053959,
+      "total_spot": 1,
+      "create_time": "2023-07-23T10:57:48Z"
+    },
+    {
+      "parking_id": "833730130-9",
+      "parking_name": "Malmö Sturup Section",
+      "coordinate": 35.4885986,
+      "total_spot": 32,
+      "create_time": "2024-03-09T01:29:41Z"
+    },
+    {
+      "parking_id": "278700288-9",
+      "parking_name": "Sangster International Section",
+      "coordinate": 15.976779,
+      "total_spot": 20,
+      "create_time": "2023-12-20T20:07:23Z"
+    },
+    {
+      "parking_id": "397920119-8",
+      "parking_name": "Atlas Brasil Cantanhede Section",
+      "coordinate": -4.232717,
+      "total_spot": 35,
+      "create_time": "2024-04-05T19:24:04Z"
+    },
+    {
+      "parking_id": "811549362-7",
+      "parking_name": "Fullerton Municipal Section",
+      "coordinate": 41.3456622,
+      "total_spot": 35,
+      "create_time": "2024-06-26T14:41:56Z"
+    },
+    {
+      "parking_id": "717985661-4",
+      "parking_name": "Burwash Section",
+      "coordinate": 5.1550917,
+      "total_spot": 10,
+      "create_time": "2024-07-08T03:22:08Z"
+    },
+    {
+      "parking_id": "138212330-2",
+      "parking_name": "Gustaf III Section",
+      "coordinate": -40.1500467,
+      "total_spot": 10,
+      "create_time": "2023-10-16T21:14:07Z"
+    },
+    {
+      "parking_id": "535618134-5",
+      "parking_name": "Annecy-Haute-Savoie-Mont Blanc Section",
+      "coordinate": 24.64995,
+      "total_spot": 1,
+      "create_time": "2024-01-26T13:41:37Z"
+    },
+    {
+      "parking_id": "065061674-X",
+      "parking_name": "Laconia Municipal Section",
+      "coordinate": -12.868355,
+      "total_spot": 20,
+      "create_time": "2024-01-15T20:09:35Z"
+    },
+    {
+      "parking_id": "248592165-2",
+      "parking_name": "Wiesbaden Army Airfield",
+      "coordinate": 40.6500061,
+      "total_spot": 17,
+      "create_time": "2024-07-09T17:32:38Z"
+    },
+    {
+      "parking_id": "490650743-3",
+      "parking_name": "Carpentaria Downs Section",
+      "coordinate": 43.3765475,
+      "total_spot": 14,
+      "create_time": "2023-11-06T15:48:26Z"
+    },
+    {
+      "parking_id": "546795321-4",
+      "parking_name": "Santa Ynez Section",
+      "coordinate": 40.628952,
+      "total_spot": 39,
+      "create_time": "2023-10-04T16:46:49Z"
+    },
+    {
+      "parking_id": "630865359-4",
+      "parking_name": "Fabio Alberto Leon Bentley Section",
+      "coordinate": 41.1690927,
+      "total_spot": 35,
+      "create_time": "2023-12-29T16:07:07Z"
+    },
+    {
+      "parking_id": "901516268-9",
+      "parking_name": "Chios Island National Section",
+      "coordinate": 53.9910079,
+      "total_spot": 11,
+      "create_time": "2024-07-07T13:54:13Z"
+    },
+    {
+      "parking_id": "258182187-6",
+      "parking_name": "Mayor PNP Nancy Flores Paucar Section",
+      "coordinate": 54.256793,
+      "total_spot": 31,
+      "create_time": "2023-12-25T02:27:41Z"
+    },
+    {
+      "parking_id": "426969084-4",
+      "parking_name": "Big Bay Seaplane Base",
+      "coordinate": 40.1427498,
+      "total_spot": 31,
+      "create_time": "2024-04-02T23:55:09Z"
+    },
+    {
+      "parking_id": "923148239-4",
+      "parking_name": "El Dorado International Section",
+      "coordinate": 39.5068579,
+      "total_spot": 32,
+      "create_time": "2023-08-16T18:51:59Z"
+    },
+    {
+      "parking_id": "904092239-X",
+      "parking_name": "Kalaeloa Section",
+      "coordinate": 50.701693,
+      "total_spot": 22,
+      "create_time": "2024-01-28T18:55:21Z"
+    },
+    {
+      "parking_id": "960006194-7",
+      "parking_name": "Big Creek Section",
+      "coordinate": -6.2741889,
+      "total_spot": 34,
+      "create_time": "2024-04-20T16:27:05Z"
+    },
+    {
+      "parking_id": "990176040-2",
+      "parking_name": "Treinta y Tres Section",
+      "coordinate": 4.3202706,
+      "total_spot": 23,
+      "create_time": "2023-11-12T07:36:40Z"
+    },
+    {
+      "parking_id": "418251482-3",
+      "parking_name": "Makkovik Section",
+      "coordinate": -34.6317414,
+      "total_spot": 17,
+      "create_time": "2023-09-25T16:32:37Z"
+    },
+    {
+      "parking_id": "111408880-3",
+      "parking_name": "Dodoma Section",
+      "coordinate": 40.6318731,
+      "total_spot": 28,
+      "create_time": "2023-09-22T16:24:54Z"
+    },
+    {
+      "parking_id": "612718671-4",
+      "parking_name": "Dawson City Section",
+      "coordinate": -12.7398884,
+      "total_spot": 11,
+      "create_time": "2024-06-29T12:42:49Z"
+    },
+    {
+      "parking_id": "445825128-7",
+      "parking_name": "Tahoua Section",
+      "coordinate": 4.5120691,
+      "total_spot": 13,
+      "create_time": "2024-02-02T22:37:31Z"
+    },
+    {
+      "parking_id": "303100215-6",
+      "parking_name": "José Leonardo Chirinos Section",
+      "coordinate": 58.1858939,
+      "total_spot": 22,
+      "create_time": "2023-07-28T20:23:10Z"
+    },
+    {
+      "parking_id": "388208714-5",
+      "parking_name": "Prof. Eribelto Manoel Reino State Section",
+      "coordinate": 36.406404,
+      "total_spot": 24,
+      "create_time": "2023-07-24T03:37:19Z"
+    },
+    {
+      "parking_id": "470258166-X",
+      "parking_name": "Akita Section",
+      "coordinate": 62.8487,
+      "total_spot": 17,
+      "create_time": "2024-04-10T00:27:08Z"
+    },
+    {
+      "parking_id": "848747915-4",
+      "parking_name": "A L Mangham Jr. Regional Section",
+      "coordinate": 8.2301756,
+      "total_spot": 5,
+      "create_time": "2024-07-07T01:00:13Z"
+    },
+    {
+      "parking_id": "635821380-6",
+      "parking_name": "Pama Section",
+      "coordinate": 49.71671,
+      "total_spot": 33,
+      "create_time": "2024-05-17T17:01:59Z"
+    },
+    {
+      "parking_id": "067846879-6",
+      "parking_name": "Cuatro Vientos Section",
+      "coordinate": 35.4035493,
+      "total_spot": 18,
+      "create_time": "2024-05-19T17:01:44Z"
+    },
+    {
+      "parking_id": "461342883-1",
+      "parking_name": "Stewart International Section",
+      "coordinate": 25.526986,
+      "total_spot": 15,
+      "create_time": "2023-09-08T18:04:56Z"
+    },
+    {
+      "parking_id": "716799588-6",
+      "parking_name": "Paris Beauvais Tillé Section",
+      "coordinate": 49.116169,
+      "total_spot": 32,
+      "create_time": "2024-04-16T23:43:38Z"
+    },
+    {
+      "parking_id": "060088756-1",
+      "parking_name": "Tokat Section",
+      "coordinate": -10.2322,
+      "total_spot": 2,
+      "create_time": "2024-02-19T07:49:07Z"
+    },
+    {
+      "parking_id": "424925270-1",
+      "parking_name": "Kamiraba Section",
+      "coordinate": 45.5691045,
+      "total_spot": 22,
+      "create_time": "2024-03-30T01:05:36Z"
+    },
+    {
+      "parking_id": "078366390-0",
+      "parking_name": "Lakeba Island Section",
+      "coordinate": 23.0594685,
+      "total_spot": 21,
+      "create_time": "2024-03-14T04:40:22Z"
+    },
+    {
+      "parking_id": "054170421-4",
+      "parking_name": "Vinnytsia/Gavyryshivka Section",
+      "coordinate": -11.5644646,
+      "total_spot": 8,
+      "create_time": "2024-06-25T23:42:11Z"
+    },
+    {
+      "parking_id": "846639257-2",
+      "parking_name": "Valesdir Section",
+      "coordinate": 28.00872,
+      "total_spot": 27,
+      "create_time": "2023-12-07T17:53:46Z"
+    },
+    {
+      "parking_id": "465096566-7",
+      "parking_name": "Curitibanos Section",
+      "coordinate": 11.0678757,
+      "total_spot": 12,
+      "create_time": "2023-10-08T01:46:30Z"
+    },
+    {
+      "parking_id": "145246379-4",
+      "parking_name": "Madurai Section",
+      "coordinate": 31.1446955,
+      "total_spot": 17,
+      "create_time": "2023-09-07T07:52:41Z"
+    },
+    {
+      "parking_id": "565350688-5",
+      "parking_name": "Lucélia Section",
+      "coordinate": 28.759126,
+      "total_spot": 28,
+      "create_time": "2024-02-14T03:33:54Z"
+    },
+    {
+      "parking_id": "643852847-1",
+      "parking_name": "Casa De Campo International Section",
+      "coordinate": 53.2685396,
+      "total_spot": 5,
+      "create_time": "2024-04-30T13:56:20Z"
+    },
+    {
+      "parking_id": "315952491-4",
+      "parking_name": "Barimunya Section",
+      "coordinate": 24.0527442,
+      "total_spot": 31,
+      "create_time": "2024-01-23T21:48:36Z"
+    },
+    {
+      "parking_id": "965551973-2",
+      "parking_name": "Bremerton National Section",
+      "coordinate": 59.3778462,
+      "total_spot": 17,
+      "create_time": "2024-05-02T05:49:53Z"
+    },
+    {
+      "parking_id": "864112323-7",
+      "parking_name": "Sanikiluaq Section",
+      "coordinate": 8.972681,
+      "total_spot": 24,
+      "create_time": "2024-02-05T22:06:45Z"
+    },
+    {
+      "parking_id": "776420150-2",
+      "parking_name": "Balkanabat Section",
+      "coordinate": 52.3518344,
+      "total_spot": 33,
+      "create_time": "2024-04-26T05:16:59Z"
+    },
+    {
+      "parking_id": "550131716-8",
+      "parking_name": "Nambucca Heads Section",
+      "coordinate": 48.8117212,
+      "total_spot": 13,
+      "create_time": "2024-01-01T10:50:37Z"
+    },
+    {
+      "parking_id": "192670049-X",
+      "parking_name": "Nunapitchuk Section",
+      "coordinate": -7.0385115,
+      "total_spot": 27,
+      "create_time": "2024-02-19T18:46:48Z"
+    },
+    {
+      "parking_id": "159826924-0",
+      "parking_name": "Ralph Wenz Field",
+      "coordinate": 50.2839339,
+      "total_spot": 38,
+      "create_time": "2024-03-13T12:47:44Z"
+    },
+    {
+      "parking_id": "958347803-2",
+      "parking_name": "Manhattan Regional Section",
+      "coordinate": 40.8806112,
+      "total_spot": 23,
+      "create_time": "2024-06-25T23:19:01Z"
+    },
+    {
+      "parking_id": "219574763-3",
+      "parking_name": "Croisette Heliport",
+      "coordinate": 41.3595963,
+      "total_spot": 24,
+      "create_time": "2024-03-19T06:27:23Z"
+    },
+    {
+      "parking_id": "951496460-8",
+      "parking_name": "Hermiston Municipal Section",
+      "coordinate": 45.4560254,
+      "total_spot": 13,
+      "create_time": "2023-12-14T22:00:17Z"
+    },
+    {
+      "parking_id": "467676278-X",
+      "parking_name": "Alfredo Vásquez Cobo International Section",
+      "coordinate": 48.6208,
+      "total_spot": 37,
+      "create_time": "2024-02-11T22:30:35Z"
+    },
+    {
+      "parking_id": "972733288-9",
+      "parking_name": "Faya Largeau Section",
+      "coordinate": 13.616911,
+      "total_spot": 28,
+      "create_time": "2023-08-23T22:33:19Z"
+    },
+    {
+      "parking_id": "503287623-2",
+      "parking_name": "Nikunau Section",
+      "coordinate": 35.2853171,
+      "total_spot": 3,
+      "create_time": "2024-01-08T05:08:53Z"
+    },
+    {
+      "parking_id": "245080937-6",
+      "parking_name": "Burwash Section",
+      "coordinate": 35.7220364,
+      "total_spot": 31,
+      "create_time": "2023-09-23T06:53:16Z"
+    },
+    {
+      "parking_id": "272199166-3",
+      "parking_name": "Rangiroa Section",
+      "coordinate": -8.4880061,
+      "total_spot": 5,
+      "create_time": "2024-04-26T23:01:47Z"
+    },
+    {
+      "parking_id": "043039236-2",
+      "parking_name": "Rumjatar Section",
+      "coordinate": 51.0149751,
+      "total_spot": 24,
+      "create_time": "2023-10-22T04:19:17Z"
+    },
+    {
+      "parking_id": "725803147-2",
+      "parking_name": "Bornholm Section",
+      "coordinate": 48.627474,
+      "total_spot": 1,
+      "create_time": "2024-03-26T14:51:07Z"
+    },
+    {
+      "parking_id": "052337579-4",
+      "parking_name": "Hopedale Section",
+      "coordinate": -0.3052095,
+      "total_spot": 1,
+      "create_time": "2023-09-01T06:41:31Z"
+    },
+    {
+      "parking_id": "325437799-0",
+      "parking_name": "Vernon Section",
+      "coordinate": 62.7246159,
+      "total_spot": 32,
+      "create_time": "2023-08-05T18:37:55Z"
+    },
+    {
+      "parking_id": "996867962-3",
+      "parking_name": "Shikarpur Section",
+      "coordinate": 56.85206,
+      "total_spot": 33,
+      "create_time": "2023-08-31T02:29:58Z"
+    },
+    {
+      "parking_id": "001077318-5",
+      "parking_name": "Trenton Mercer Section",
+      "coordinate": 54.6590604,
+      "total_spot": 26,
+      "create_time": "2023-11-19T05:52:47Z"
+    },
+    {
+      "parking_id": "629061940-3",
+      "parking_name": "John A. Osborne Section",
+      "coordinate": 8.9924711,
+      "total_spot": 6,
+      "create_time": "2023-11-18T10:31:42Z"
+    },
+    {
+      "parking_id": "382716139-8",
+      "parking_name": "Trepell Section",
+      "coordinate": 28.505315,
+      "total_spot": 1,
+      "create_time": "2023-11-16T02:36:11Z"
+    },
+    {
+      "parking_id": "822716472-2",
+      "parking_name": "Galcaio Section",
+      "coordinate": 17.1613952,
+      "total_spot": 24,
+      "create_time": "2023-09-23T09:25:37Z"
+    },
+    {
+      "parking_id": "106651326-0",
+      "parking_name": "Kochi Section (高知空港)",
+      "coordinate": 13.6609515,
+      "total_spot": 16,
+      "create_time": "2024-06-12T00:21:30Z"
+    },
+    {
+      "parking_id": "160874764-6",
+      "parking_name": "Mocopulli Section",
+      "coordinate": 15.5946381,
+      "total_spot": 2,
+      "create_time": "2024-03-15T15:52:35Z"
+    },
+    {
+      "parking_id": "712188995-1",
+      "parking_name": "Joliet Regional Section",
+      "coordinate": -3.059218,
+      "total_spot": 2,
+      "create_time": "2024-03-03T08:46:51Z"
+    },
+    {
+      "parking_id": "503900116-9",
+      "parking_name": "Humaitá Section",
+      "coordinate": 40.882377,
+      "total_spot": 14,
+      "create_time": "2024-06-20T16:04:26Z"
+    },
+    {
+      "parking_id": "015149909-8",
+      "parking_name": "Borlange Section",
+      "coordinate": 41.2166819,
+      "total_spot": 23,
+      "create_time": "2023-08-05T10:00:43Z"
+    },
+    {
+      "parking_id": "556124575-9",
+      "parking_name": "Al Taqaddum Air Base",
+      "coordinate": -6.7084401,
+      "total_spot": 28,
+      "create_time": "2024-03-29T10:40:25Z"
+    },
+    {
+      "parking_id": "645014887-X",
+      "parking_name": "Patrick Air Force Base",
+      "coordinate": 63.1908332,
+      "total_spot": 24,
+      "create_time": "2023-11-08T23:42:54Z"
+    },
+    {
+      "parking_id": "517118046-6",
+      "parking_name": "Ebadon Section",
+      "coordinate": -38.9719333,
+      "total_spot": 6,
+      "create_time": "2023-08-04T20:51:16Z"
+    },
+    {
+      "parking_id": "574971784-4",
+      "parking_name": "Bonn-Hangelar Section",
+      "coordinate": 43.0756739,
+      "total_spot": 23,
+      "create_time": "2023-07-26T06:36:17Z"
+    },
+    {
+      "parking_id": "594224827-3",
+      "parking_name": "Muş Section",
+      "coordinate": 53.455203,
+      "total_spot": 2,
+      "create_time": "2023-08-19T20:59:51Z"
+    },
+    {
+      "parking_id": "847139016-7",
+      "parking_name": "Hao Section",
+      "coordinate": 41.7662205,
+      "total_spot": 31,
+      "create_time": "2023-08-30T05:19:19Z"
+    },
+    {
+      "parking_id": "511372494-7",
+      "parking_name": "Njombe Section",
+      "coordinate": 53.5866599,
+      "total_spot": 33,
+      "create_time": "2024-07-15T11:19:49Z"
+    },
+    {
+      "parking_id": "502959882-0",
+      "parking_name": "Soroako Section",
+      "coordinate": 52.96446,
+      "total_spot": 3,
+      "create_time": "2023-08-06T04:29:02Z"
+    },
+    {
+      "parking_id": "503735412-9",
+      "parking_name": "Tol Section",
+      "coordinate": -6.57018,
+      "total_spot": 5,
+      "create_time": "2024-04-20T09:22:38Z"
+    },
+    {
+      "parking_id": "194214238-2",
+      "parking_name": "Patuxent River Naval Air Station (Trapnell Field)",
+      "coordinate": 41.5212778,
+      "total_spot": 14,
+      "create_time": "2023-12-24T08:51:05Z"
+    },
+    {
+      "parking_id": "263238111-8",
+      "parking_name": "General Rivadeneira Section",
+      "coordinate": -13.48804,
+      "total_spot": 21,
+      "create_time": "2024-05-02T05:49:29Z"
+    },
+    {
+      "parking_id": "834511743-0",
+      "parking_name": "Bomar Field Shelbyville Municipal Section",
+      "coordinate": 50.4553587,
+      "total_spot": 14,
+      "create_time": "2023-11-03T22:54:32Z"
+    },
+    {
+      "parking_id": "749352754-7",
+      "parking_name": "Labo Section",
+      "coordinate": 55.086808,
+      "total_spot": 21,
+      "create_time": "2023-12-11T11:57:40Z"
+    },
+    {
+      "parking_id": "422780046-3",
+      "parking_name": "Van Nuys Section",
+      "coordinate": 30.400907,
+      "total_spot": 13,
+      "create_time": "2023-12-26T00:02:55Z"
+    },
+    {
+      "parking_id": "199412106-8",
+      "parking_name": "Bentota River Waterdrome",
+      "coordinate": 46.7530428,
+      "total_spot": 17,
+      "create_time": "2024-02-26T18:11:52Z"
+    },
+    {
+      "parking_id": "867147260-4",
+      "parking_name": "Sasereme Section",
+      "coordinate": 39.3038853,
+      "total_spot": 28,
+      "create_time": "2024-05-27T17:00:27Z"
+    },
+    {
+      "parking_id": "047021100-8",
+      "parking_name": "St Clair County International Section",
+      "coordinate": 17.8261143,
+      "total_spot": 31,
+      "create_time": "2024-07-09T02:08:08Z"
+    },
+    {
+      "parking_id": "600888222-9",
+      "parking_name": "Wangaratta Section",
+      "coordinate": 24.062988,
+      "total_spot": 27,
+      "create_time": "2024-06-10T16:05:27Z"
+    },
+    {
+      "parking_id": "377529230-6",
+      "parking_name": "Samsun Çarşamba Section",
+      "coordinate": 36.977145,
+      "total_spot": 29,
+      "create_time": "2024-02-16T08:24:14Z"
+    },
+    {
+      "parking_id": "533152359-5",
+      "parking_name": "Mid Delta Regional Section",
+      "coordinate": 37.4475393,
+      "total_spot": 38,
+      "create_time": "2023-11-09T17:57:32Z"
+    },
+    {
+      "parking_id": "595253232-2",
+      "parking_name": "Hughenden Section",
+      "coordinate": -36.6396492,
+      "total_spot": 9,
+      "create_time": "2024-06-11T08:42:22Z"
+    },
+    {
+      "parking_id": "728534260-2",
+      "parking_name": "Sugimanuru Section",
+      "coordinate": 34.9116774,
+      "total_spot": 33,
+      "create_time": "2023-08-28T10:51:02Z"
+    },
+    {
+      "parking_id": "997059350-1",
+      "parking_name": "Key West International Section",
+      "coordinate": 9.3278585,
+      "total_spot": 20,
+      "create_time": "2023-08-12T09:48:44Z"
+    },
+    {
+      "parking_id": "536058814-4",
+      "parking_name": "Juan H White Section",
+      "coordinate": -6.5488924,
+      "total_spot": 2,
+      "create_time": "2024-02-07T00:16:45Z"
+    },
+    {
+      "parking_id": "410883107-1",
+      "parking_name": "Querétaro Intercontinental Section",
+      "coordinate": 53.4249712,
+      "total_spot": 14,
+      "create_time": "2024-01-10T10:22:23Z"
+    },
+    {
+      "parking_id": "180469755-9",
+      "parking_name": "Mahendranagar Section",
+      "coordinate": 0.556948,
+      "total_spot": 3,
+      "create_time": "2023-07-25T23:49:58Z"
+    },
+    {
+      "parking_id": "102564819-6",
+      "parking_name": "Barcelos Section",
+      "coordinate": 52.5557638,
+      "total_spot": 4,
+      "create_time": "2023-12-31T19:14:58Z"
+    },
+    {
+      "parking_id": "242459288-8",
+      "parking_name": "Deir ez-Zor Air Base",
+      "coordinate": -31.948311,
+      "total_spot": 7,
+      "create_time": "2024-05-25T22:23:27Z"
+    },
+    {
+      "parking_id": "538218456-9",
+      "parking_name": "Minlaton Section",
+      "coordinate": 42.3781869,
+      "total_spot": 35,
+      "create_time": "2024-03-15T18:51:22Z"
+    },
+    {
+      "parking_id": "069316144-2",
+      "parking_name": "Tulsa International Section",
+      "coordinate": -6.1965654,
+      "total_spot": 28,
+      "create_time": "2023-10-27T13:29:21Z"
+    },
+    {
+      "parking_id": "021968382-4",
+      "parking_name": "Juanjui Section",
+      "coordinate": 14.5144041,
+      "total_spot": 16,
+      "create_time": "2024-03-03T20:05:08Z"
+    },
+    {
+      "parking_id": "737826795-3",
+      "parking_name": "Ua Pou Section",
+      "coordinate": 14.565668,
+      "total_spot": 10,
+      "create_time": "2024-05-17T03:01:25Z"
+    },
+    {
+      "parking_id": "505903160-8",
+      "parking_name": "Onslow Section",
+      "coordinate": 28.578756,
+      "total_spot": 1,
+      "create_time": "2023-09-15T22:13:31Z"
+    },
+    {
+      "parking_id": "514480117-X",
+      "parking_name": "Svalbard Section, Longyear",
+      "coordinate": -12.7787793,
+      "total_spot": 22,
+      "create_time": "2024-02-21T11:36:28Z"
+    },
+    {
+      "parking_id": "003943835-X",
+      "parking_name": "Zunyi Xinzhou Section",
+      "coordinate": 60.2931464,
+      "total_spot": 25,
+      "create_time": "2024-06-10T09:12:48Z"
+    },
+    {
+      "parking_id": "136709902-1",
+      "parking_name": "Shalz Field",
+      "coordinate": 56.2094069,
+      "total_spot": 6,
+      "create_time": "2024-06-12T16:27:33Z"
+    },
+    {
+      "parking_id": "383879001-4",
+      "parking_name": "Bereina Section",
+      "coordinate": 39.877206,
+      "total_spot": 39,
+      "create_time": "2024-06-17T09:53:07Z"
+    },
+    {
+      "parking_id": "977472085-7",
+      "parking_name": "Nea Anchialos Section",
+      "coordinate": -2.8534379,
+      "total_spot": 16,
+      "create_time": "2023-12-11T19:01:48Z"
+    },
+    {
+      "parking_id": "790561949-4",
+      "parking_name": "Hughenden Section",
+      "coordinate": -36.6131562,
+      "total_spot": 18,
+      "create_time": "2024-02-12T13:24:29Z"
+    },
+    {
+      "parking_id": "096332019-X",
+      "parking_name": "Venango Regional Section",
+      "coordinate": 18.0295839,
+      "total_spot": 36,
+      "create_time": "2024-02-08T13:23:55Z"
+    },
+    {
+      "parking_id": "583902304-3",
+      "parking_name": "Deir ez-Zor Air Base",
+      "coordinate": 39.827432,
+      "total_spot": 20,
+      "create_time": "2023-11-25T15:57:29Z"
+    },
+    {
+      "parking_id": "732664877-8",
+      "parking_name": "Jequié Section",
+      "coordinate": 35.104673,
+      "total_spot": 30,
+      "create_time": "2023-08-29T08:34:11Z"
+    },
+    {
+      "parking_id": "108723716-5",
+      "parking_name": "Neerlerit Inaat Section",
+      "coordinate": -2.8385304,
+      "total_spot": 29,
+      "create_time": "2024-04-01T10:06:06Z"
+    },
+    {
+      "parking_id": "976845977-8",
+      "parking_name": "Morgantown Municipal Walter L. Bill Hart Field",
+      "coordinate": 38.013999,
+      "total_spot": 27,
+      "create_time": "2023-09-01T05:17:03Z"
+    },
+    {
+      "parking_id": "842760184-0",
+      "parking_name": "Antsirabe Section",
+      "coordinate": -9.5541709,
+      "total_spot": 6,
+      "create_time": "2023-12-16T14:09:27Z"
+    },
+    {
+      "parking_id": "020208223-7",
+      "parking_name": "Vahitahi Section",
+      "coordinate": 44.0461726,
+      "total_spot": 25,
+      "create_time": "2023-12-25T07:59:13Z"
+    },
+    {
+      "parking_id": "733585046-0",
+      "parking_name": "Addington Field",
+      "coordinate": 41.7811503,
+      "total_spot": 37,
+      "create_time": "2023-11-26T04:38:23Z"
+    },
+    {
+      "parking_id": "788531073-6",
+      "parking_name": "Ataq Section",
+      "coordinate": 28.2279,
+      "total_spot": 9,
+      "create_time": "2023-08-19T01:16:23Z"
+    },
+    {
+      "parking_id": "878422340-5",
+      "parking_name": "Matsumoto Section",
+      "coordinate": 42.1132871,
+      "total_spot": 6,
+      "create_time": "2023-11-26T16:55:07Z"
+    },
+    {
+      "parking_id": "561462804-5",
+      "parking_name": "Dijon-Bourgogne Section",
+      "coordinate": -6.4041582,
+      "total_spot": 11,
+      "create_time": "2023-08-17T00:13:09Z"
+    },
+    {
+      "parking_id": "280030693-9",
+      "parking_name": "Hamad International Section",
+      "coordinate": 50.2496386,
+      "total_spot": 12,
+      "create_time": "2023-10-19T01:26:06Z"
+    },
+    {
+      "parking_id": "587461452-4",
+      "parking_name": "Twente Section",
+      "coordinate": 59.3473789,
+      "total_spot": 27,
+      "create_time": "2024-01-01T22:39:34Z"
+    },
+    {
+      "parking_id": "023977190-7",
+      "parking_name": "Toulouse-Blagnac Section",
+      "coordinate": 1.411517,
+      "total_spot": 32,
+      "create_time": "2023-10-07T12:10:52Z"
+    },
+    {
+      "parking_id": "544981299-X",
+      "parking_name": "Lake Manyara Section",
+      "coordinate": -11.22075,
+      "total_spot": 31,
+      "create_time": "2024-06-14T16:27:46Z"
+    },
+    {
+      "parking_id": "066949612-X",
+      "parking_name": "Macomb Municipal Section",
+      "coordinate": 58.1483629,
+      "total_spot": 17,
+      "create_time": "2023-10-09T02:47:41Z"
+    },
+    {
+      "parking_id": "433053214-X",
+      "parking_name": "Pico Section",
+      "coordinate": 40.7031503,
+      "total_spot": 2,
+      "create_time": "2023-12-21T19:35:54Z"
+    },
+    {
+      "parking_id": "320648504-5",
+      "parking_name": "Middle Caicos Section",
+      "coordinate": 36.07884,
+      "total_spot": 14,
+      "create_time": "2024-02-02T12:08:47Z"
+    },
+    {
+      "parking_id": "136882967-8",
+      "parking_name": "Gütersloh Air Base",
+      "coordinate": 20.044412,
+      "total_spot": 23,
+      "create_time": "2024-02-04T06:59:24Z"
+    },
+    {
+      "parking_id": "606773924-0",
+      "parking_name": "Vance W. Amory International Section",
+      "coordinate": 50.643436,
+      "total_spot": 31,
+      "create_time": "2024-02-27T13:29:27Z"
+    },
+    {
+      "parking_id": "012779319-4",
+      "parking_name": "Eastmain River Section",
+      "coordinate": -37.7758475,
+      "total_spot": 19,
+      "create_time": "2023-11-03T21:35:51Z"
+    },
+    {
+      "parking_id": "345272944-3",
+      "parking_name": "Hola Section",
+      "coordinate": 46.3611841,
+      "total_spot": 2,
+      "create_time": "2023-08-22T10:55:15Z"
+    },
+    {
+      "parking_id": "332857146-9",
+      "parking_name": "Ginbata Section",
+      "coordinate": 8.9308058,
+      "total_spot": 12,
+      "create_time": "2024-04-25T17:56:27Z"
+    },
+    {
+      "parking_id": "843471993-2",
+      "parking_name": "Sabha Section",
+      "coordinate": 44.584109,
+      "total_spot": 21,
+      "create_time": "2023-11-17T18:08:03Z"
+    },
+    {
+      "parking_id": "639696376-0",
+      "parking_name": "Aghajari Section",
+      "coordinate": 5.042569,
+      "total_spot": 38,
+      "create_time": "2023-10-16T09:12:40Z"
+    },
+    {
+      "parking_id": "370937903-2",
+      "parking_name": "Elk City Regional Business Section",
+      "coordinate": -40.1500467,
+      "total_spot": 25,
+      "create_time": "2023-09-28T14:47:51Z"
+    },
+    {
+      "parking_id": "093104222-4",
+      "parking_name": "Kelanoa Section",
+      "coordinate": 50.4213981,
+      "total_spot": 8,
+      "create_time": "2023-12-01T05:35:55Z"
+    },
+    {
+      "parking_id": "218547014-0",
+      "parking_name": "General Lucio Blanco International Section",
+      "coordinate": -32.5711982,
+      "total_spot": 16,
+      "create_time": "2023-11-25T13:59:01Z"
+    },
+    {
+      "parking_id": "877546781-X",
+      "parking_name": "Harstad/Narvik Section, Evenes",
+      "coordinate": 50.0478165,
+      "total_spot": 33,
+      "create_time": "2023-07-28T14:22:42Z"
+    },
+    {
+      "parking_id": "866767401-X",
+      "parking_name": "Dongji Aiport",
+      "coordinate": 62.4729446,
+      "total_spot": 6,
+      "create_time": "2024-02-16T01:11:25Z"
+    },
+    {
+      "parking_id": "915798415-8",
+      "parking_name": "Kebar Section",
+      "coordinate": 1.3976339,
+      "total_spot": 27,
+      "create_time": "2023-08-15T22:16:11Z"
+    },
+    {
+      "parking_id": "130653018-0",
+      "parking_name": "Zhaotong Section",
+      "coordinate": 34.99015,
+      "total_spot": 3,
+      "create_time": "2023-11-08T11:58:40Z"
+    },
+    {
+      "parking_id": "288605678-2",
+      "parking_name": "Garowe Section",
+      "coordinate": 8.4656765,
+      "total_spot": 10,
+      "create_time": "2023-12-03T05:30:05Z"
+    },
+    {
+      "parking_id": "298629279-8",
+      "parking_name": "Greenlee County Section",
+      "coordinate": -22.1468812,
+      "total_spot": 40,
+      "create_time": "2024-03-16T22:20:04Z"
+    },
+    {
+      "parking_id": "734419922-X",
+      "parking_name": "Anadolu Section",
+      "coordinate": 42.8903751,
+      "total_spot": 19,
+      "create_time": "2023-08-28T02:03:26Z"
+    },
+    {
+      "parking_id": "936096087-X",
+      "parking_name": "Mercedita Section",
+      "coordinate": 34.705939,
+      "total_spot": 23,
+      "create_time": "2024-05-12T23:50:39Z"
+    },
+    {
+      "parking_id": "643318895-8",
+      "parking_name": "Kristiansund Section (Kvernberget)",
+      "coordinate": 50.6250765,
+      "total_spot": 17,
+      "create_time": "2023-10-01T05:39:52Z"
+    },
+    {
+      "parking_id": "536061812-4",
+      "parking_name": "Sam Ratulangi Section",
+      "coordinate": 5.4197312,
+      "total_spot": 6,
+      "create_time": "2023-12-19T21:37:17Z"
+    },
+    {
+      "parking_id": "567063302-4",
+      "parking_name": "Sir Bani Yas Section",
+      "coordinate": 38.6841753,
+      "total_spot": 22,
+      "create_time": "2024-05-14T16:13:38Z"
+    },
+    {
+      "parking_id": "850581969-1",
+      "parking_name": "Ayr Section",
+      "coordinate": -33.6861588,
+      "total_spot": 36,
+      "create_time": "2024-05-20T06:23:04Z"
+    },
+    {
+      "parking_id": "592779395-9",
+      "parking_name": "Chatham Islands-Tuuta Section",
+      "coordinate": 41.6716076,
+      "total_spot": 30,
+      "create_time": "2023-10-02T20:49:54Z"
+    },
+    {
+      "parking_id": "332291649-9",
+      "parking_name": "Lošinj Island Section",
+      "coordinate": 44.4248175,
+      "total_spot": 18,
+      "create_time": "2023-11-01T15:56:07Z"
+    },
+    {
+      "parking_id": "479535996-2",
+      "parking_name": "Plettenberg Bay Section",
+      "coordinate": 45.6232258,
+      "total_spot": 40,
+      "create_time": "2023-12-31T12:10:26Z"
+    },
+    {
+      "parking_id": "321544693-6",
+      "parking_name": "Cacique Aramare Section",
+      "coordinate": 7.54326,
+      "total_spot": 38,
+      "create_time": "2024-03-31T01:32:35Z"
+    },
+    {
+      "parking_id": "650914550-2",
+      "parking_name": "Dominique Edward Osok Section",
+      "coordinate": 41.6985084,
+      "total_spot": 38,
+      "create_time": "2023-10-08T02:01:42Z"
+    },
+    {
+      "parking_id": "094404978-8",
+      "parking_name": "Safi Section",
+      "coordinate": -2.8534379,
+      "total_spot": 31,
+      "create_time": "2023-08-26T03:47:24Z"
+    },
+    {
+      "parking_id": "824948978-0",
+      "parking_name": "Nanded Section",
+      "coordinate": 29.784315,
+      "total_spot": 1,
+      "create_time": "2024-03-10T13:31:47Z"
+    },
+    {
+      "parking_id": "803610689-2",
+      "parking_name": "Laughlin Bullhead International Section",
+      "coordinate": -8.4112772,
+      "total_spot": 24,
+      "create_time": "2023-09-26T19:39:52Z"
+    },
+    {
+      "parking_id": "131917296-2",
+      "parking_name": "Mercer County Section",
+      "coordinate": 37.5247192,
+      "total_spot": 40,
+      "create_time": "2024-03-11T12:06:51Z"
+    },
+    {
+      "parking_id": "036081249-X",
+      "parking_name": "Copán Ruinas Section",
+      "coordinate": 24.115578,
+      "total_spot": 26,
+      "create_time": "2023-10-26T01:27:47Z"
+    },
+    {
+      "parking_id": "721093445-6",
+      "parking_name": "Sauðárkrókur Section",
+      "coordinate": 41.9854144,
+      "total_spot": 9,
+      "create_time": "2024-06-19T18:08:15Z"
+    },
+    {
+      "parking_id": "772590035-7",
+      "parking_name": "Kananga Section",
+      "coordinate": 28.0920448,
+      "total_spot": 23,
+      "create_time": "2024-01-05T09:38:22Z"
+    },
+    {
+      "parking_id": "509502964-2",
+      "parking_name": "Zulu Inyala Section",
+      "coordinate": 52.0408964,
+      "total_spot": 9,
+      "create_time": "2024-02-25T20:03:59Z"
+    },
+    {
+      "parking_id": "926608573-1",
+      "parking_name": "Thargomindah Section",
+      "coordinate": 30.7066802,
+      "total_spot": 1,
+      "create_time": "2023-12-12T07:06:12Z"
+    },
+    {
+      "parking_id": "912809126-4",
+      "parking_name": "Craig Cove Section",
+      "coordinate": 31.5259047,
+      "total_spot": 33,
+      "create_time": "2024-07-12T12:49:58Z"
+    },
+    {
+      "parking_id": "748882828-3",
+      "parking_name": "Bengbu Section",
+      "coordinate": 61.0031692,
+      "total_spot": 10,
+      "create_time": "2023-10-07T20:59:15Z"
+    },
+    {
+      "parking_id": "014453695-1",
+      "parking_name": "Tenkodogo Section",
+      "coordinate": 47.5658802,
+      "total_spot": 12,
+      "create_time": "2024-04-13T20:28:39Z"
+    },
+    {
+      "parking_id": "318561700-2",
+      "parking_name": "Robe Section",
+      "coordinate": 41.364568,
+      "total_spot": 34,
+      "create_time": "2024-05-03T02:58:42Z"
+    },
+    {
+      "parking_id": "783243891-6",
+      "parking_name": "Presidente Itamar Franco Section",
+      "coordinate": 3.7220621,
+      "total_spot": 24,
+      "create_time": "2023-08-27T16:29:18Z"
+    },
+    {
+      "parking_id": "816611192-6",
+      "parking_name": "Safi Section",
+      "coordinate": -6.9034154,
+      "total_spot": 12,
+      "create_time": "2023-10-22T19:22:18Z"
+    },
+    {
+      "parking_id": "724036976-5",
+      "parking_name": "Nakhon Ratchasima Section",
+      "coordinate": 35.032891,
+      "total_spot": 23,
+      "create_time": "2024-04-13T17:23:23Z"
+    },
+    {
+      "parking_id": "456243731-6",
+      "parking_name": "Watsonville Municipal Section",
+      "coordinate": 33.8092255,
+      "total_spot": 8,
+      "create_time": "2024-04-21T09:45:59Z"
+    },
+    {
+      "parking_id": "571576849-7",
+      "parking_name": "Bulagtai Resort Section",
+      "coordinate": 48.1194148,
+      "total_spot": 28,
+      "create_time": "2024-02-08T10:58:33Z"
+    },
+    {
+      "parking_id": "113127410-5",
+      "parking_name": "Garasa Section",
+      "coordinate": 40.2251411,
+      "total_spot": 3,
+      "create_time": "2023-09-21T12:07:10Z"
+    },
+    {
+      "parking_id": "182570936-X",
+      "parking_name": "Vilyuisk Section",
+      "coordinate": 50.3611702,
+      "total_spot": 7,
+      "create_time": "2023-12-25T14:56:06Z"
+    },
+    {
+      "parking_id": "653922578-4",
+      "parking_name": "Cross City Section",
+      "coordinate": 29.7286909,
+      "total_spot": 11,
+      "create_time": "2024-01-23T03:58:16Z"
+    },
+    {
+      "parking_id": "444349236-4",
+      "parking_name": "Moffett Federal Airfield",
+      "coordinate": 43.7058177,
+      "total_spot": 26,
+      "create_time": "2024-02-21T05:49:51Z"
+    },
+    {
+      "parking_id": "679295594-9",
+      "parking_name": "Grabtsevo Section",
+      "coordinate": 19.6775885,
+      "total_spot": 5,
+      "create_time": "2023-10-07T06:17:56Z"
+    },
+    {
+      "parking_id": "101627432-7",
+      "parking_name": "North Island Naval Air Station-Halsey Field",
+      "coordinate": -7.1274078,
+      "total_spot": 10,
+      "create_time": "2024-02-11T07:55:14Z"
+    },
+    {
+      "parking_id": "290080216-4",
+      "parking_name": "Auburn Lewiston Municipal Section",
+      "coordinate": 28.47952,
+      "total_spot": 17,
+      "create_time": "2023-09-10T02:42:25Z"
+    },
+    {
+      "parking_id": "049735711-9",
+      "parking_name": "Spirit Lake Municipal Section",
+      "coordinate": 51.341376,
+      "total_spot": 27,
+      "create_time": "2024-04-30T23:39:57Z"
+    },
+    {
+      "parking_id": "982523056-8",
+      "parking_name": "Marmul Section",
+      "coordinate": 44.6441724,
+      "total_spot": 6,
+      "create_time": "2024-02-03T16:45:04Z"
+    },
+    {
+      "parking_id": "966958338-1",
+      "parking_name": "Ohkay Owingeh Section",
+      "coordinate": -8.3921715,
+      "total_spot": 39,
+      "create_time": "2024-01-25T18:38:19Z"
+    },
+    {
+      "parking_id": "024887960-X",
+      "parking_name": "Fort Liard Section",
+      "coordinate": 28.791192,
+      "total_spot": 19,
+      "create_time": "2024-02-18T11:08:33Z"
+    },
+    {
+      "parking_id": "714634689-7",
+      "parking_name": "Istanbul Section",
+      "coordinate": 26.695419,
+      "total_spot": 29,
+      "create_time": "2024-01-18T02:47:03Z"
+    },
+    {
+      "parking_id": "426095657-4",
+      "parking_name": "Lubang Section",
+      "coordinate": 50.5664031,
+      "total_spot": 1,
+      "create_time": "2024-02-29T04:00:57Z"
+    },
+    {
+      "parking_id": "317084664-7",
+      "parking_name": "Skeldon Section",
+      "coordinate": -21.35188,
+      "total_spot": 36,
+      "create_time": "2024-02-29T10:33:38Z"
+    },
+    {
+      "parking_id": "618588385-6",
+      "parking_name": "Cape Gloucester Section",
+      "coordinate": 39.3297421,
+      "total_spot": 24,
+      "create_time": "2024-04-07T05:40:57Z"
+    },
+    {
+      "parking_id": "109197910-3",
+      "parking_name": "Ofu Village Section",
+      "coordinate": 37.3520055,
+      "total_spot": 21,
+      "create_time": "2023-12-05T19:07:41Z"
+    },
+    {
+      "parking_id": "353132598-1",
+      "parking_name": "Haivaro Section",
+      "coordinate": 22.656408,
+      "total_spot": 25,
+      "create_time": "2024-05-15T14:52:03Z"
+    },
+    {
+      "parking_id": "956662650-9",
+      "parking_name": "Curitibanos Section",
+      "coordinate": -8.681402,
+      "total_spot": 23,
+      "create_time": "2023-12-05T21:26:43Z"
+    },
+    {
+      "parking_id": "763341651-3",
+      "parking_name": "Anguganak Section",
+      "coordinate": 40.3380072,
+      "total_spot": 3,
+      "create_time": "2024-07-22T19:32:03Z"
+    },
+    {
+      "parking_id": "752089976-4",
+      "parking_name": "Yagoua Section",
+      "coordinate": -7.7926564,
+      "total_spot": 11,
+      "create_time": "2023-08-30T17:13:44Z"
+    },
+    {
+      "parking_id": "891508947-2",
+      "parking_name": "Adado Section",
+      "coordinate": 36.67006,
+      "total_spot": 33,
+      "create_time": "2023-11-27T07:25:08Z"
+    },
+    {
+      "parking_id": "005790142-2",
+      "parking_name": "Okushiri Section",
+      "coordinate": -2.9505021,
+      "total_spot": 15,
+      "create_time": "2023-10-16T13:49:13Z"
+    },
+    {
+      "parking_id": "901650665-9",
+      "parking_name": "Izhevsk Section",
+      "coordinate": 29.841047,
+      "total_spot": 25,
+      "create_time": "2024-03-25T10:07:08Z"
+    },
+    {
+      "parking_id": "748959039-6",
+      "parking_name": "Kerrville Municipal Louis Schreiner Field",
+      "coordinate": 39.672791,
+      "total_spot": 11,
+      "create_time": "2024-06-04T04:57:44Z"
+    },
+    {
+      "parking_id": "315463437-1",
+      "parking_name": "Ouango Fitini Section",
+      "coordinate": 45.1652963,
+      "total_spot": 14,
+      "create_time": "2024-06-04T15:09:06Z"
+    },
+    {
+      "parking_id": "460892407-9",
+      "parking_name": "Colonsay Airstrip",
+      "coordinate": 43.4945737,
+      "total_spot": 3,
+      "create_time": "2024-05-17T15:28:33Z"
+    },
+    {
+      "parking_id": "394284221-1",
+      "parking_name": "Yiwu Section",
+      "coordinate": 15.7318052,
+      "total_spot": 4,
+      "create_time": "2023-12-28T08:54:19Z"
+    },
+    {
+      "parking_id": "292006204-2",
+      "parking_name": "Taplejung Section",
+      "coordinate": 59.3779388,
+      "total_spot": 22,
+      "create_time": "2023-09-25T05:06:17Z"
+    },
+    {
+      "parking_id": "172891594-5",
+      "parking_name": "Ginbata Section",
+      "coordinate": 59.3573204,
+      "total_spot": 28,
+      "create_time": "2023-11-09T12:18:44Z"
+    },
+    {
+      "parking_id": "729705608-1",
+      "parking_name": "Elko Regional Section",
+      "coordinate": -28.5600363,
+      "total_spot": 36,
+      "create_time": "2024-01-23T13:55:07Z"
+    },
+    {
+      "parking_id": "625725952-5",
+      "parking_name": "Teller Section",
+      "coordinate": -22.787936,
+      "total_spot": 3,
+      "create_time": "2023-10-06T05:11:01Z"
+    },
+    {
+      "parking_id": "815702598-2",
+      "parking_name": "Hechi Jinchengjiang Section",
+      "coordinate": -29.0303854,
+      "total_spot": 8,
+      "create_time": "2023-10-29T12:07:08Z"
+    },
+    {
+      "parking_id": "088960911-X",
+      "parking_name": "Rimouski Section",
+      "coordinate": 55.4203835,
+      "total_spot": 27,
+      "create_time": "2024-06-01T10:18:48Z"
+    },
+    {
+      "parking_id": "283972264-X",
+      "parking_name": "Arturo Michelena International Section",
+      "coordinate": 40.0820173,
+      "total_spot": 11,
+      "create_time": "2023-12-22T18:22:01Z"
+    },
+    {
+      "parking_id": "621974662-7",
+      "parking_name": "Deming Municipal Section",
+      "coordinate": 27.928835,
+      "total_spot": 8,
+      "create_time": "2023-12-24T05:14:51Z"
+    },
+    {
+      "parking_id": "070497487-8",
+      "parking_name": "Stockton Metropolitan Section",
+      "coordinate": 14.5618599,
+      "total_spot": 40,
+      "create_time": "2024-05-17T18:41:53Z"
+    },
+    {
+      "parking_id": "063582618-6",
+      "parking_name": "Apple Valley Section",
+      "coordinate": -7.2635671,
+      "total_spot": 24,
+      "create_time": "2024-01-28T17:32:38Z"
+    },
+    {
+      "parking_id": "106396324-9",
+      "parking_name": "Armando Schwarck Section",
+      "coordinate": 57.5798009,
+      "total_spot": 12,
+      "create_time": "2023-07-26T00:33:16Z"
+    },
+    {
+      "parking_id": "873941186-9",
+      "parking_name": "Sharp County Regional Section",
+      "coordinate": 19.2874648,
+      "total_spot": 19,
+      "create_time": "2024-07-09T08:07:42Z"
+    },
+    {
+      "parking_id": "843919575-3",
+      "parking_name": "Cap FAP David Abenzur Rengifo International Section",
+      "coordinate": -13.28918,
+      "total_spot": 7,
+      "create_time": "2024-03-28T08:40:54Z"
+    },
+    {
+      "parking_id": "499862035-5",
+      "parking_name": "Kasaan Seaplane Base",
+      "coordinate": -6.8898362,
+      "total_spot": 23,
+      "create_time": "2024-02-13T05:39:34Z"
+    },
+    {
+      "parking_id": "291642120-3",
+      "parking_name": "Arandis Section",
+      "coordinate": 44.7696167,
+      "total_spot": 5,
+      "create_time": "2023-10-29T06:01:10Z"
+    },
+    {
+      "parking_id": "240056102-8",
+      "parking_name": "Minlaton Section",
+      "coordinate": 14.5672317,
+      "total_spot": 15,
+      "create_time": "2024-03-14T22:51:17Z"
+    },
+    {
+      "parking_id": "523703369-5",
+      "parking_name": "Alama Iqbal International Section",
+      "coordinate": 59.8342617,
+      "total_spot": 14,
+      "create_time": "2024-03-14T04:00:43Z"
+    },
+    {
+      "parking_id": "674715183-6",
+      "parking_name": "Mesquite Section",
+      "coordinate": 37.7485824,
+      "total_spot": 31,
+      "create_time": "2024-05-28T16:36:56Z"
+    },
+    {
+      "parking_id": "322920346-1",
+      "parking_name": "Armando Schwarck Section",
+      "coordinate": 34.728584,
+      "total_spot": 40,
+      "create_time": "2023-12-15T13:32:58Z"
+    },
+    {
+      "parking_id": "203344073-7",
+      "parking_name": "Buariki Section",
+      "coordinate": 32.412199,
+      "total_spot": 26,
+      "create_time": "2024-04-10T16:21:54Z"
+    },
+    {
+      "parking_id": "388008737-7",
+      "parking_name": "Kodiak Section",
+      "coordinate": 55.2402058,
+      "total_spot": 9,
+      "create_time": "2023-10-01T06:56:56Z"
+    },
+    {
+      "parking_id": "327670846-9",
+      "parking_name": "Moenjodaro Section",
+      "coordinate": 45.1056617,
+      "total_spot": 10,
+      "create_time": "2023-08-09T23:02:36Z"
+    },
+    {
+      "parking_id": "736478234-6",
+      "parking_name": "Provo Municipal Section",
+      "coordinate": 55.34534,
+      "total_spot": 27,
+      "create_time": "2023-08-14T07:58:12Z"
+    },
+    {
+      "parking_id": "629371073-8",
+      "parking_name": "Komodo Section",
+      "coordinate": 17.9567646,
+      "total_spot": 6,
+      "create_time": "2023-11-14T08:07:06Z"
+    },
+    {
+      "parking_id": "539699600-5",
+      "parking_name": "Marudi Section",
+      "coordinate": 50.4145722,
+      "total_spot": 40,
+      "create_time": "2024-05-05T13:08:05Z"
+    },
+    {
+      "parking_id": "622426653-0",
+      "parking_name": "Aswan International Section",
+      "coordinate": 24.034527,
+      "total_spot": 28,
+      "create_time": "2023-09-14T06:25:21Z"
+    },
+    {
+      "parking_id": "181448280-6",
+      "parking_name": "Kayenta Section",
+      "coordinate": 35.8714354,
+      "total_spot": 30,
+      "create_time": "2023-11-24T04:07:13Z"
+    },
+    {
+      "parking_id": "253871002-2",
+      "parking_name": "Coveñas Section",
+      "coordinate": 7.0540231,
+      "total_spot": 12,
+      "create_time": "2024-06-30T13:42:20Z"
+    },
+    {
+      "parking_id": "487191121-7",
+      "parking_name": "Bildudalur Section",
+      "coordinate": 35.0801925,
+      "total_spot": 11,
+      "create_time": "2023-08-16T12:07:15Z"
+    },
+    {
+      "parking_id": "645899886-4",
+      "parking_name": "Bisha Section",
+      "coordinate": 28.357764,
+      "total_spot": 9,
+      "create_time": "2024-07-07T06:59:09Z"
+    },
+    {
+      "parking_id": "766294062-4",
+      "parking_name": "Olbia Costa Smeralda Section",
+      "coordinate": 52.4867189,
+      "total_spot": 11,
+      "create_time": "2024-01-29T23:50:35Z"
+    },
+    {
+      "parking_id": "166207649-5",
+      "parking_name": "Woomera Airfield",
+      "coordinate": 39.886025,
+      "total_spot": 19,
+      "create_time": "2024-02-14T19:08:35Z"
+    },
+    {
+      "parking_id": "404341809-4",
+      "parking_name": "David Wayne Hooks Memorial Section",
+      "coordinate": 8.2435239,
+      "total_spot": 1,
+      "create_time": "2024-06-14T10:19:09Z"
+    },
+    {
+      "parking_id": "169565413-7",
+      "parking_name": "Dublin Section",
+      "coordinate": 38.7726507,
+      "total_spot": 21,
+      "create_time": "2024-06-12T03:54:07Z"
+    },
+    {
+      "parking_id": "557293374-0",
+      "parking_name": "Gag Island Section",
+      "coordinate": -10.28917,
+      "total_spot": 31,
+      "create_time": "2024-05-12T12:03:03Z"
+    },
+    {
+      "parking_id": "711893541-7",
+      "parking_name": "Gamboa Section",
+      "coordinate": 23.72892,
+      "total_spot": 38,
+      "create_time": "2024-05-01T04:36:43Z"
+    },
+    {
+      "parking_id": "771102214-X",
+      "parking_name": "Ames Municipal Section",
+      "coordinate": 40.1394691,
+      "total_spot": 28,
+      "create_time": "2023-10-16T06:56:56Z"
+    },
+    {
+      "parking_id": "394473443-2",
+      "parking_name": "Bairnsdale Section",
+      "coordinate": 49.6560847,
+      "total_spot": 40,
+      "create_time": "2023-08-02T06:47:46Z"
+    },
+    {
+      "parking_id": "834273668-7",
+      "parking_name": "Brussels South Charleroi Section",
+      "coordinate": 63.8310311,
+      "total_spot": 19,
+      "create_time": "2023-07-24T10:46:26Z"
+    },
+    {
+      "parking_id": "395432598-5",
+      "parking_name": "Murray Island Section",
+      "coordinate": 31.88743,
+      "total_spot": 26,
+      "create_time": "2024-03-24T10:47:29Z"
+    },
+    {
+      "parking_id": "989832364-7",
+      "parking_name": "Charlottetown Section",
+      "coordinate": -25.1057553,
+      "total_spot": 8,
+      "create_time": "2024-07-02T08:46:28Z"
+    },
+    {
+      "parking_id": "943618081-0",
+      "parking_name": "Warukin Section",
+      "coordinate": 25.315243,
+      "total_spot": 22,
+      "create_time": "2024-05-06T03:32:05Z"
+    },
+    {
+      "parking_id": "353233326-0",
+      "parking_name": "Whistler/Green Lake Water Aerodrome",
+      "coordinate": -36.6396492,
+      "total_spot": 27,
+      "create_time": "2024-06-09T14:36:11Z"
+    },
+    {
+      "parking_id": "440073309-2",
+      "parking_name": "Rum Cay Section",
+      "coordinate": -32.0078739,
+      "total_spot": 20,
+      "create_time": "2024-03-24T08:47:09Z"
+    },
+    {
+      "parking_id": "076076434-4",
+      "parking_name": "Tekin Section",
+      "coordinate": 10.4009358,
+      "total_spot": 35,
+      "create_time": "2024-05-21T20:07:37Z"
+    },
+    {
+      "parking_id": "473081671-4",
+      "parking_name": "Tchongorove Section",
+      "coordinate": 40.9512231,
+      "total_spot": 39,
+      "create_time": "2024-06-28T03:33:10Z"
+    },
+    {
+      "parking_id": "947508484-3",
+      "parking_name": "Thangool Section",
+      "coordinate": 41.1812066,
+      "total_spot": 33,
+      "create_time": "2024-02-15T15:39:24Z"
+    },
+    {
+      "parking_id": "592076194-6",
+      "parking_name": "Harrismith Section",
+      "coordinate": 18.3419004,
+      "total_spot": 2,
+      "create_time": "2024-01-21T00:25:16Z"
+    },
+    {
+      "parking_id": "145011961-1",
+      "parking_name": "Kiel-Holtenau Section",
+      "coordinate": 45.1248093,
+      "total_spot": 37,
+      "create_time": "2024-01-16T02:23:38Z"
+    },
+    {
+      "parking_id": "633076489-1",
+      "parking_name": "Amos/Magny Section",
+      "coordinate": 17.1547981,
+      "total_spot": 39,
+      "create_time": "2023-08-02T01:57:07Z"
+    },
+    {
+      "parking_id": "407050689-6",
+      "parking_name": "Robert (Bob) Curtis Memorial Section",
+      "coordinate": -9.38948,
+      "total_spot": 1,
+      "create_time": "2023-11-28T22:37:14Z"
+    },
+    {
+      "parking_id": "575364247-0",
+      "parking_name": "Andøya Section",
+      "coordinate": 22.299866,
+      "total_spot": 24,
+      "create_time": "2024-05-05T22:28:57Z"
+    },
+    {
+      "parking_id": "357211371-7",
+      "parking_name": "Rourkela Section",
+      "coordinate": 15.3097361,
+      "total_spot": 5,
+      "create_time": "2023-09-28T16:43:13Z"
+    },
+    {
+      "parking_id": "047949619-6",
+      "parking_name": "Beru Section",
+      "coordinate": 19.3947363,
+      "total_spot": 24,
+      "create_time": "2023-08-28T13:58:25Z"
+    },
+    {
+      "parking_id": "860887395-8",
+      "parking_name": "Caribou Municipal Section",
+      "coordinate": 59.1930889,
+      "total_spot": 12,
+      "create_time": "2024-06-27T23:15:20Z"
+    },
+    {
+      "parking_id": "727480529-0",
+      "parking_name": "Ngala Section",
+      "coordinate": -6.1373578,
+      "total_spot": 17,
+      "create_time": "2024-02-26T14:21:42Z"
+    },
+    {
+      "parking_id": "139330779-5",
+      "parking_name": "Owando Section",
+      "coordinate": 50.1661085,
+      "total_spot": 4,
+      "create_time": "2023-09-12T07:12:28Z"
+    },
+    {
+      "parking_id": "564651071-6",
+      "parking_name": "Mohamed Boudiaf International Section",
+      "coordinate": 4.6376919,
+      "total_spot": 35,
+      "create_time": "2023-09-06T13:27:17Z"
+    },
+    {
+      "parking_id": "833859315-X",
+      "parking_name": "Salton Sea Section",
+      "coordinate": 46.5620633,
+      "total_spot": 21,
+      "create_time": "2024-01-20T20:15:30Z"
+    },
+    {
+      "parking_id": "216075115-4",
+      "parking_name": "Garanhuns Section",
+      "coordinate": 43.3362822,
+      "total_spot": 19,
+      "create_time": "2023-08-15T02:46:49Z"
+    },
+    {
+      "parking_id": "110974479-X",
+      "parking_name": "Ekwok Section",
+      "coordinate": 44.574779,
+      "total_spot": 15,
+      "create_time": "2024-04-05T05:23:17Z"
+    },
+    {
+      "parking_id": "730711819-X",
+      "parking_name": "Yeosu Section",
+      "coordinate": -6.4331238,
+      "total_spot": 35,
+      "create_time": "2024-05-12T14:07:24Z"
+    },
+    {
+      "parking_id": "243628248-X",
+      "parking_name": "Punta Gorda Section",
+      "coordinate": 41.7371087,
+      "total_spot": 38,
+      "create_time": "2023-09-03T12:19:58Z"
+    },
+    {
+      "parking_id": "634441491-X",
+      "parking_name": "Alpha Section",
+      "coordinate": -38.9467974,
+      "total_spot": 27,
+      "create_time": "2023-09-13T15:22:41Z"
+    },
+    {
+      "parking_id": "715267555-4",
+      "parking_name": "Fundación Section",
+      "coordinate": 37.7162538,
+      "total_spot": 23,
+      "create_time": "2024-03-03T05:16:55Z"
+    },
+    {
+      "parking_id": "163186312-6",
+      "parking_name": "Snap Lake Section",
+      "coordinate": 44.829819,
+      "total_spot": 3,
+      "create_time": "2024-03-05T00:01:16Z"
+    },
+    {
+      "parking_id": "046294673-8",
+      "parking_name": "Neftekamsk Section",
+      "coordinate": 28.214419,
+      "total_spot": 7,
+      "create_time": "2023-10-24T17:34:01Z"
+    },
+    {
+      "parking_id": "610076129-7",
+      "parking_name": "Paiela Section",
+      "coordinate": 40.2928735,
+      "total_spot": 27,
+      "create_time": "2024-01-14T21:07:17Z"
+    },
+    {
+      "parking_id": "529393173-3",
+      "parking_name": "Ngari Gunsa Section",
+      "coordinate": 14.26411,
+      "total_spot": 17,
+      "create_time": "2024-02-29T11:19:17Z"
+    },
+    {
+      "parking_id": "482642022-6",
+      "parking_name": "Cancún International Section",
+      "coordinate": -10.2043297,
+      "total_spot": 10,
+      "create_time": "2024-05-07T01:21:01Z"
+    },
+    {
+      "parking_id": "357524744-7",
+      "parking_name": "Laguindingan Section",
+      "coordinate": -17.8938032,
+      "total_spot": 2,
+      "create_time": "2024-02-18T01:32:52Z"
+    },
+    {
+      "parking_id": "137648700-4",
+      "parking_name": "Nejran Section",
+      "coordinate": 37.1562778,
+      "total_spot": 8,
+      "create_time": "2024-06-16T07:42:02Z"
+    },
+    {
+      "parking_id": "017980973-3",
+      "parking_name": "Tradewind Section",
+      "coordinate": 29.803849,
+      "total_spot": 29,
+      "create_time": "2023-12-26T01:40:34Z"
+    },
+    {
+      "parking_id": "612770920-2",
+      "parking_name": "Platov International Section",
+      "coordinate": 44.0643415,
+      "total_spot": 7,
+      "create_time": "2023-10-18T22:23:39Z"
+    },
+    {
+      "parking_id": "402053426-8",
+      "parking_name": "Mangla Section",
+      "coordinate": 17.4605379,
+      "total_spot": 20,
+      "create_time": "2023-10-02T21:53:36Z"
+    },
+    {
+      "parking_id": "015875790-4",
+      "parking_name": "Brest Section",
+      "coordinate": -17.6509195,
+      "total_spot": 22,
+      "create_time": "2024-04-06T05:37:02Z"
+    },
+    {
+      "parking_id": "297985598-7",
+      "parking_name": "N'Délé Section",
+      "coordinate": 43.4945737,
+      "total_spot": 32,
+      "create_time": "2023-12-20T13:00:36Z"
+    },
+    {
+      "parking_id": "776543114-5",
+      "parking_name": "Tokat Section",
+      "coordinate": -15.6835726,
+      "total_spot": 31,
+      "create_time": "2024-07-01T19:31:41Z"
+    },
+    {
+      "parking_id": "482396353-9",
+      "parking_name": "Zwara Section",
+      "coordinate": 51.5742615,
+      "total_spot": 40,
+      "create_time": "2023-09-25T17:36:15Z"
+    },
+    {
+      "parking_id": "001885897-X",
+      "parking_name": "Châteauroux-Déols \"Marcel Dassault\" Section",
+      "coordinate": 9.602521,
+      "total_spot": 18,
+      "create_time": "2024-03-02T04:35:04Z"
+    },
+    {
+      "parking_id": "674449405-8",
+      "parking_name": "Kosrae International Section",
+      "coordinate": 31.5825784,
+      "total_spot": 16,
+      "create_time": "2023-10-31T15:22:29Z"
+    },
+    {
+      "parking_id": "016935900-X",
+      "parking_name": "Chita-Kadala Section",
+      "coordinate": 59.1991816,
+      "total_spot": 7,
+      "create_time": "2023-09-13T01:37:21Z"
+    },
+    {
+      "parking_id": "849057431-6",
+      "parking_name": "Mulka Section",
+      "coordinate": -7.5450262,
+      "total_spot": 26,
+      "create_time": "2024-05-11T19:45:33Z"
+    },
+    {
+      "parking_id": "775836078-5",
+      "parking_name": "Fremont County Section",
+      "coordinate": 43.0751316,
+      "total_spot": 39,
+      "create_time": "2024-04-30T20:42:00Z"
+    },
+    {
+      "parking_id": "928343902-3",
+      "parking_name": "Dean River Section",
+      "coordinate": -0.2007936,
+      "total_spot": 32,
+      "create_time": "2023-12-26T22:22:44Z"
+    },
+    {
+      "parking_id": "084391687-7",
+      "parking_name": "Playón Chico Section",
+      "coordinate": 44.3623348,
+      "total_spot": 31,
+      "create_time": "2023-12-29T12:58:49Z"
+    },
+    {
+      "parking_id": "779388631-3",
+      "parking_name": "Pantelleria Section",
+      "coordinate": 13.7838134,
+      "total_spot": 1,
+      "create_time": "2024-02-16T16:25:06Z"
+    },
+    {
+      "parking_id": "092208133-6",
+      "parking_name": "Magdagachi Section",
+      "coordinate": 49.4378273,
+      "total_spot": 9,
+      "create_time": "2023-11-16T11:18:36Z"
+    },
+    {
+      "parking_id": "092387038-5",
+      "parking_name": "Barranca De Upia Section",
+      "coordinate": -11.3535985,
+      "total_spot": 27,
+      "create_time": "2023-10-22T11:18:06Z"
+    },
+    {
+      "parking_id": "728784291-2",
+      "parking_name": "Fort Stockton Pecos County Section",
+      "coordinate": 57.6653832,
+      "total_spot": 31,
+      "create_time": "2023-11-08T17:19:34Z"
+    },
+    {
+      "parking_id": "230916682-0",
+      "parking_name": "Walnut Ridge Regional Section",
+      "coordinate": 13.0730815,
+      "total_spot": 13,
+      "create_time": "2023-10-09T08:57:14Z"
+    },
+    {
+      "parking_id": "988774071-3",
+      "parking_name": "Carnarvon Section",
+      "coordinate": 51.876873,
+      "total_spot": 14,
+      "create_time": "2023-11-08T03:19:59Z"
+    },
+    {
+      "parking_id": "995934531-9",
+      "parking_name": "Thaba Nchu Tar Section",
+      "coordinate": -14.1187849,
+      "total_spot": 22,
+      "create_time": "2024-05-24T07:18:18Z"
+    },
+    {
+      "parking_id": "790613689-6",
+      "parking_name": "Tifalmin Section",
+      "coordinate": 14.90806,
+      "total_spot": 15,
+      "create_time": "2023-12-03T18:30:59Z"
+    },
+    {
+      "parking_id": "334974311-0",
+      "parking_name": "Beale Air Force Base",
+      "coordinate": 55.9424359,
+      "total_spot": 2,
+      "create_time": "2024-03-07T13:08:03Z"
+    },
+    {
+      "parking_id": "072722696-7",
+      "parking_name": "Finke Section",
+      "coordinate": 11.111972,
+      "total_spot": 23,
+      "create_time": "2024-07-12T03:57:22Z"
+    },
+    {
+      "parking_id": "566365648-0",
+      "parking_name": "Batna Section",
+      "coordinate": 38.577099,
+      "total_spot": 24,
+      "create_time": "2023-09-16T13:42:39Z"
+    },
+    {
+      "parking_id": "393658204-1",
+      "parking_name": "Ouani Section",
+      "coordinate": 30.933652,
+      "total_spot": 19,
+      "create_time": "2023-12-06T03:04:03Z"
+    },
+    {
+      "parking_id": "599818534-X",
+      "parking_name": "Osan Air Base",
+      "coordinate": 46.0036703,
+      "total_spot": 16,
+      "create_time": "2023-12-25T16:26:35Z"
+    },
+    {
+      "parking_id": "612074056-2",
+      "parking_name": "Eliye Springs Section",
+      "coordinate": 43.7441795,
+      "total_spot": 34,
+      "create_time": "2024-03-28T04:28:37Z"
+    },
+    {
+      "parking_id": "136412415-7",
+      "parking_name": "Porto de Moz Section",
+      "coordinate": 27.542493,
+      "total_spot": 32,
+      "create_time": "2023-12-19T01:24:11Z"
+    },
+    {
+      "parking_id": "899937940-X",
+      "parking_name": "Chevery Section",
+      "coordinate": 48.8959487,
+      "total_spot": 9,
+      "create_time": "2023-11-28T01:03:56Z"
+    },
+    {
+      "parking_id": "585550278-3",
+      "parking_name": "Cooktown Section",
+      "coordinate": 3.1852692,
+      "total_spot": 31,
+      "create_time": "2023-12-09T12:32:46Z"
+    },
+    {
+      "parking_id": "853511234-0",
+      "parking_name": "Wasum Section",
+      "coordinate": -10.9427774,
+      "total_spot": 2,
+      "create_time": "2024-06-23T00:18:20Z"
+    },
+    {
+      "parking_id": "807761606-2",
+      "parking_name": "Lerwick / Tingwall Section",
+      "coordinate": 53.302644,
+      "total_spot": 13,
+      "create_time": "2024-02-24T23:36:09Z"
+    },
+    {
+      "parking_id": "696603018-X",
+      "parking_name": "Aeroclube de Bento Gonçalves Section",
+      "coordinate": 39.864867,
+      "total_spot": 11,
+      "create_time": "2024-06-02T01:39:21Z"
+    },
+    {
+      "parking_id": "385259532-0",
+      "parking_name": "Sehulea Section",
+      "coordinate": -10.3023,
+      "total_spot": 7,
+      "create_time": "2023-10-06T01:07:03Z"
+    },
+    {
+      "parking_id": "414031715-9",
+      "parking_name": "Wasum Section",
+      "coordinate": -1.0233937,
+      "total_spot": 6,
+      "create_time": "2024-03-05T04:38:38Z"
+    },
+    {
+      "parking_id": "472359602-X",
+      "parking_name": "Dundas Section",
+      "coordinate": -7.5690727,
+      "total_spot": 15,
+      "create_time": "2024-01-16T05:22:19Z"
+    },
+    {
+      "parking_id": "820723389-3",
+      "parking_name": "King Hussein Air College",
+      "coordinate": -7.034968,
+      "total_spot": 25,
+      "create_time": "2024-04-19T01:44:33Z"
+    },
+    {
+      "parking_id": "959304222-9",
+      "parking_name": "Nîmes-Arles-Camargue Section",
+      "coordinate": 54.3110486,
+      "total_spot": 32,
+      "create_time": "2023-09-30T13:16:19Z"
+    },
+    {
+      "parking_id": "003189490-9",
+      "parking_name": "Eirunepé Section",
+      "coordinate": 28.945479,
+      "total_spot": 2,
+      "create_time": "2023-08-24T19:58:05Z"
+    },
+    {
+      "parking_id": "394544969-3",
+      "parking_name": "Mbarara Section",
+      "coordinate": -8.3661,
+      "total_spot": 38,
+      "create_time": "2023-10-03T13:46:02Z"
+    },
+    {
+      "parking_id": "379543456-4",
+      "parking_name": "Ndolo Section",
+      "coordinate": 35.84609,
+      "total_spot": 11,
+      "create_time": "2024-07-03T22:15:47Z"
+    },
+    {
+      "parking_id": "644647198-X",
+      "parking_name": "Uru Harbour Section",
+      "coordinate": 12.4525749,
+      "total_spot": 10,
+      "create_time": "2023-10-30T11:32:43Z"
+    },
+    {
+      "parking_id": "309474465-6",
+      "parking_name": "Stokmarknes Skagen Section",
+      "coordinate": 31.5909061,
+      "total_spot": 27,
+      "create_time": "2023-11-30T11:47:19Z"
+    },
+    {
+      "parking_id": "947821969-3",
+      "parking_name": "Uléi Section",
+      "coordinate": 52.3576375,
+      "total_spot": 35,
+      "create_time": "2023-07-23T19:39:24Z"
+    },
+    {
+      "parking_id": "230948146-7",
+      "parking_name": "Zenag Section",
+      "coordinate": 55.2571473,
+      "total_spot": 16,
+      "create_time": "2024-03-27T19:33:00Z"
+    },
+    {
+      "parking_id": "473040678-8",
+      "parking_name": "Capitán Av. Salvador Ogaya G. Section",
+      "coordinate": 54.652617,
+      "total_spot": 23,
+      "create_time": "2024-05-31T09:09:10Z"
+    },
+    {
+      "parking_id": "489379174-5",
+      "parking_name": "Macagua Section",
+      "coordinate": 49.8958649,
+      "total_spot": 30,
+      "create_time": "2024-07-06T08:52:36Z"
+    },
+    {
+      "parking_id": "524377042-6",
+      "parking_name": "El Eden Section",
+      "coordinate": 30.2787798,
+      "total_spot": 19,
+      "create_time": "2023-11-04T21:17:34Z"
+    },
+    {
+      "parking_id": "780830083-7",
+      "parking_name": "San Ignacio de Moxos Section",
+      "coordinate": -23.8380515,
+      "total_spot": 22,
+      "create_time": "2023-12-25T21:56:54Z"
+    },
+    {
+      "parking_id": "691359224-8",
+      "parking_name": "Sandspit Section",
+      "coordinate": -6.4594857,
+      "total_spot": 2,
+      "create_time": "2023-10-12T03:55:30Z"
+    },
+    {
+      "parking_id": "310806517-3",
+      "parking_name": "Paris Beauvais Tillé Section",
+      "coordinate": -41.9430504,
+      "total_spot": 21,
+      "create_time": "2023-08-31T14:23:17Z"
+    },
+    {
+      "parking_id": "200859564-1",
+      "parking_name": "Gorge Harbour Seaplane Base",
+      "coordinate": 49.47512,
+      "total_spot": 15,
+      "create_time": "2023-12-15T12:16:51Z"
+    },
+    {
+      "parking_id": "849670391-6",
+      "parking_name": "Mendi Section",
+      "coordinate": 29.689847,
+      "total_spot": 8,
+      "create_time": "2023-12-09T02:41:21Z"
+    },
+    {
+      "parking_id": "946054841-5",
+      "parking_name": "Akulivik Section",
+      "coordinate": 8.8525279,
+      "total_spot": 37,
+      "create_time": "2024-02-07T14:41:51Z"
+    },
+    {
+      "parking_id": "377432421-2",
+      "parking_name": "Carutapera Section",
+      "coordinate": 5.409158,
+      "total_spot": 11,
+      "create_time": "2023-09-16T16:04:43Z"
+    },
+    {
+      "parking_id": "912582468-6",
+      "parking_name": "Independence Municipal Section",
+      "coordinate": 41.37536,
+      "total_spot": 36,
+      "create_time": "2023-08-10T14:36:19Z"
+    },
+    {
+      "parking_id": "164389714-4",
+      "parking_name": "Prado Section",
+      "coordinate": -7.4111241,
+      "total_spot": 26,
+      "create_time": "2024-02-05T11:05:03Z"
+    },
+    {
+      "parking_id": "837282716-8",
+      "parking_name": "Roseau Municipal Rudy Billberg Field",
+      "coordinate": -6.588201,
+      "total_spot": 37,
+      "create_time": "2024-07-05T23:47:21Z"
+    },
+    {
+      "parking_id": "010062049-3",
+      "parking_name": "Bursa Yenişehir Section",
+      "coordinate": -3.428803,
+      "total_spot": 10,
+      "create_time": "2024-06-19T10:03:56Z"
+    },
+    {
+      "parking_id": "007071693-5",
+      "parking_name": "Afutara Aerodrome",
+      "coordinate": 36.8517527,
+      "total_spot": 25,
+      "create_time": "2023-08-15T17:45:02Z"
+    },
+    {
+      "parking_id": "756877807-X",
+      "parking_name": "Djerba Zarzis International Section",
+      "coordinate": -42.7556675,
+      "total_spot": 14,
+      "create_time": "2023-11-22T04:53:07Z"
+    },
+    {
+      "parking_id": "181375939-1",
+      "parking_name": "Salt Cay Section",
+      "coordinate": -29.56225,
+      "total_spot": 21,
+      "create_time": "2023-09-19T23:58:35Z"
+    },
+    {
+      "parking_id": "278585239-7",
+      "parking_name": "Pathein Section",
+      "coordinate": -5.8949347,
+      "total_spot": 22,
+      "create_time": "2024-06-27T19:06:04Z"
+    },
+    {
+      "parking_id": "387678825-0",
+      "parking_name": "Presidente Juscelino Kubistschek International Section",
+      "coordinate": 46.1740537,
+      "total_spot": 11,
+      "create_time": "2023-11-15T01:09:53Z"
+    },
+    {
+      "parking_id": "808584744-2",
+      "parking_name": "St Louis Lambert International Section",
+      "coordinate": 40.6196638,
+      "total_spot": 8,
+      "create_time": "2023-12-20T11:25:13Z"
+    },
+    {
+      "parking_id": "081168624-8",
+      "parking_name": "Kilwa Section",
+      "coordinate": 46.2475531,
+      "total_spot": 26,
+      "create_time": "2024-07-06T00:03:35Z"
+    },
+    {
+      "parking_id": "042622552-X",
+      "parking_name": "Barakoma Section",
+      "coordinate": -8.2794,
+      "total_spot": 25,
+      "create_time": "2023-12-08T19:52:52Z"
+    },
+    {
+      "parking_id": "878833275-6",
+      "parking_name": "Oslo Gardermoen Section",
+      "coordinate": 6.223561,
+      "total_spot": 39,
+      "create_time": "2024-04-05T11:05:00Z"
+    },
+    {
+      "parking_id": "942441345-9",
+      "parking_name": "Manassas Regional Section/Harry P. Davis Field",
+      "coordinate": 34.2469767,
+      "total_spot": 5,
+      "create_time": "2024-06-13T06:40:29Z"
+    },
+    {
+      "parking_id": "110472795-1",
+      "parking_name": "Middle Caicos Section",
+      "coordinate": 33.347316,
+      "total_spot": 25,
+      "create_time": "2023-09-07T04:06:41Z"
+    },
+    {
+      "parking_id": "073918041-X",
+      "parking_name": "Cherkasy International Section",
+      "coordinate": 57.7039518,
+      "total_spot": 21,
+      "create_time": "2024-02-06T09:40:20Z"
+    },
+    {
+      "parking_id": "220166613-X",
+      "parking_name": "Comodoro Pedro Zanni Section",
+      "coordinate": 55.7,
+      "total_spot": 9,
+      "create_time": "2024-01-07T03:36:40Z"
+    },
+    {
+      "parking_id": "824372825-2",
+      "parking_name": "Sanday Section",
+      "coordinate": -29.5904737,
+      "total_spot": 13,
+      "create_time": "2024-05-23T11:03:27Z"
+    },
+    {
+      "parking_id": "841567260-8",
+      "parking_name": "Bahía Negra Section",
+      "coordinate": -3.3973104,
+      "total_spot": 38,
+      "create_time": "2024-01-12T19:10:40Z"
+    },
+    {
+      "parking_id": "034140640-6",
+      "parking_name": "Cauayan Section",
+      "coordinate": 19.4281922,
+      "total_spot": 12,
+      "create_time": "2024-05-28T15:15:01Z"
+    },
+    {
+      "parking_id": "255144003-3",
+      "parking_name": "Miyanmin Section",
+      "coordinate": 10.049147,
+      "total_spot": 17,
+      "create_time": "2024-01-14T09:52:20Z"
+    },
+    {
+      "parking_id": "595453843-3",
+      "parking_name": "Port Alfred Section",
+      "coordinate": -27.3863909,
+      "total_spot": 18,
+      "create_time": "2023-08-06T17:34:30Z"
+    },
+    {
+      "parking_id": "274258789-6",
+      "parking_name": "Martha's Vineyard Section",
+      "coordinate": -5.4736254,
+      "total_spot": 39,
+      "create_time": "2023-10-09T17:17:12Z"
+    },
+    {
+      "parking_id": "799895544-9",
+      "parking_name": "Cecil Section",
+      "coordinate": -22.1678006,
+      "total_spot": 2,
+      "create_time": "2024-04-23T02:30:54Z"
+    },
+    {
+      "parking_id": "518612719-1",
+      "parking_name": "Rimouski Section",
+      "coordinate": 30.045109,
+      "total_spot": 29,
+      "create_time": "2024-05-01T13:57:53Z"
+    },
+    {
+      "parking_id": "279512559-5",
+      "parking_name": "Buta Zega Section",
+      "coordinate": 18.2464685,
+      "total_spot": 16,
+      "create_time": "2024-01-24T17:44:42Z"
+    },
+    {
+      "parking_id": "951624932-9",
+      "parking_name": "Fort Mcpherson Section",
+      "coordinate": 56.7813252,
+      "total_spot": 29,
+      "create_time": "2024-06-11T05:31:29Z"
+    },
+    {
+      "parking_id": "668258516-0",
+      "parking_name": "Dinwiddie County Section",
+      "coordinate": 17.5165974,
+      "total_spot": 25,
+      "create_time": "2024-07-15T07:40:07Z"
+    },
+    {
+      "parking_id": "712741765-2",
+      "parking_name": "North Lakhimpur Section",
+      "coordinate": 35.4674683,
+      "total_spot": 19,
+      "create_time": "2024-06-17T04:55:18Z"
+    },
+    {
+      "parking_id": "950032096-7",
+      "parking_name": "Memanbetsu Section",
+      "coordinate": 12.0718334,
+      "total_spot": 28,
+      "create_time": "2023-09-22T23:54:14Z"
+    },
+    {
+      "parking_id": "246972533-X",
+      "parking_name": "Hobart International Section",
+      "coordinate": 32.890479,
+      "total_spot": 29,
+      "create_time": "2023-11-11T19:28:31Z"
+    },
+    {
+      "parking_id": "733936995-3",
+      "parking_name": "Hólmavík Section",
+      "coordinate": -10.6235959,
+      "total_spot": 20,
+      "create_time": "2024-05-03T01:32:42Z"
+    },
+    {
+      "parking_id": "559240958-3",
+      "parking_name": "Bertoua Section",
+      "coordinate": -15.0705872,
+      "total_spot": 4,
+      "create_time": "2024-02-27T16:51:17Z"
+    }
+  ]
+}

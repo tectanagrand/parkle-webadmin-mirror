@@ -38,10 +38,9 @@ export function responsiveFontSizes({
   };
 }
 
-// ----------------------------------------------------------------------
-
+//
 const typography = {
-  fontFamily: inter.style.fontFamily,
+  // fontFamily: inter.style.fontFamily,
   fontWeightRegular: 400,
   fontWeightMedium: 600,
   fontWeightBold: 700,
@@ -93,7 +92,7 @@ const typography = {
   },
   body1: {
     lineHeight: 1.5,
-    fontSize: pxToRem(16),
+    fontSize: pxToRem(14),
   },
   body2: {
     lineHeight: 22 / 14,
@@ -107,13 +106,13 @@ const typography = {
     fontWeight: 700,
     lineHeight: 1.5,
     fontSize: pxToRem(12),
-    textTransform: "uppercase",
+    textTransform: "uppercase" as const,
   },
   button: {
-    fontWeight: 700,
+    fontWeight: 400,
     lineHeight: 24 / 14,
     fontSize: pxToRem(14),
-    textTransform: "capitalize",
+    textTransform: "none" as const,
   },
 };
 
