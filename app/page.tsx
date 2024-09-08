@@ -1,13 +1,14 @@
-import Image from "next/image";
-import { TextField, Button, Avatar } from "@mui/material";
+// app/page.tsx (this is the root route '/')
+import { getSession } from "next-auth/react";
+import { redirect } from "next/navigation"; // Adjust the path according to your setup
 
-export default function Home() {
-  return (
-    <main className="flex min-h-screen flex-col items-center p-24">
-      <h1>Components Styling</h1>
-      <TextField label="Textfield" />
-      <Avatar />
-      <Button>Button</Button>
-    </main>
-  );
+export default async function Home() {
+  const session = await getSession();
+
+  if (!session) {
+    redirect("/login");
+  } else {
+    redirect("/dashboard");
+  }
+  return;
 }
