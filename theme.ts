@@ -1,7 +1,7 @@
 // src/theme.ts
 "use client";
 import { Roboto, Inter, Poppins } from "next/font/google";
-import { createTheme, Theme } from "@mui/material/styles";
+import { Components, createTheme, Theme } from "@mui/material/styles";
 import ComponentsOverrides from "./theme/component";
 import typography from "./theme/typography";
 
@@ -55,6 +55,6 @@ const theme: Theme = createTheme({
   },
 });
 
-theme.components = ComponentsOverrides(theme);
+theme.components = ComponentsOverrides(theme) as unknown as Components;
 
 export default theme;

@@ -139,6 +139,7 @@ const DrawableVideo = ({ link }: DrawableVideoProps) => {
             />
             {rectangles.map((rect, i) => (
               <BoundingBox
+                key={`rect-${i}`}
                 id_bbox={rect.id_bbox}
                 points={rect.points}
                 lastoffset={rect.lastoffset}

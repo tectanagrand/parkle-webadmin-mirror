@@ -5,6 +5,11 @@ declare module "next-auth" {
     user: {
       /** The user's postal address. */
       token: string;
+      refreshToken: string;
+      accessToken: string;
+      name: string;
+      email: string;
+      username: string;
     };
   }
 }

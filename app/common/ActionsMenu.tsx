@@ -67,13 +67,14 @@ const ActionsMenu = ({ sx, menuitems, id }: ActionMenuItemInterface) => {
       >
         <Paper>
           <MenuList>
-            {menuitems.map((item) => {
+            {menuitems.map((item, index) => {
               const IconComponent = icons[item.icon as keyof typeof icons];
               return (
                 <MenuItem
                   onClick={(e) => {
                     item.onClickAction(id);
                   }}
+                  key={`${item.menutext}-${index}`}
                 >
                   <ListItemIcon>
                     <IconComponent

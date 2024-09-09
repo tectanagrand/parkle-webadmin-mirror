@@ -72,15 +72,12 @@ const MapFormField = ({
     // console.log(key);
     // console.log(markers[index][key]);
     if (markers[index]) {
-      if (
-        marker &&
-        markers[index][key] &&
-        marker.position == markers[index][key].position
-      ) {
+      const markerKeyData = markers[index][key];
+      if (marker && markerKeyData) {
+        if (marker.position == markerKeyData.position) return;
         // console.log("no change markers");
-        return;
       }
-      if (!marker && !markers[index][key]) return;
+      if (!marker && !markerKeyData) return;
     }
     // console.log(markers[index][key]);
 

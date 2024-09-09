@@ -58,8 +58,12 @@ const ToggleButtonComp = ({
       exclusive
       sx={sxBg}
     >
-      {toggleButton.map((item) => (
-        <ToggleButton value={item.value} sx={{ ...sxBtn, py: "3px" }}>
+      {toggleButton.map((item, index) => (
+        <ToggleButton
+          value={item.value}
+          sx={{ ...sxBtn, py: "3px" }}
+          key={`${index}-${item.value}`}
+        >
           <p className="font-semibold">{item.text}</p>
         </ToggleButton>
       ))}

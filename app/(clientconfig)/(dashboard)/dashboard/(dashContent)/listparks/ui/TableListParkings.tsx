@@ -59,27 +59,26 @@ const TableListParkings = ({ sx }: any) => {
     columnHelper.display({
       id: "actions",
       cell: ({ row }) => {
-        const ActionsItemList = useMemo(
-          () => [
-            {
-              icon: "Edit",
-              menutext: "Edit",
-              onClickAction: (id: string) => {
-                console.log(id);
-              },
+        const ActionsItemList = [
+          {
+            icon: "Edit",
+            menutext: "Edit",
+            onClickAction: (id: string) => {
+              console.log(id);
             },
-            {
-              icon: "Delete",
-              menutext: "Delete",
-              onClickAction: (id: string) => {
-                console.log(id);
-              },
+          },
+          {
+            icon: "Delete",
+            menutext: "Delete",
+            onClickAction: (id: string) => {
+              console.log(id);
             },
-          ],
-          []
-        );
+          },
+        ];
+
         return (
           <ActionsMenu
+            key={row.id}
             menuitems={ActionsItemList}
             id={row.original.parking_id}
           />
